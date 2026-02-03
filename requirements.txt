@@ -1,0 +1,15 @@
+torch==2.2.2
+numpy==1.24.4
+transformers==4.46.1
+accelerate==0.26.0
+tqdm==4.66.5
+PyYAML==6.0.2
+wfdb==4.0.0
+scikit-learn==1.6.1
+peft==0.13.2
+nltk==3.9.1
+rouge==1.0.1
+tensorboard==2.18.0
+bitsandbytes==0.44.1
+flash_attn==2.7.4.post1
+deepspeed==0.14.0
