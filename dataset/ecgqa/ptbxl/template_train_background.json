@@ -1,0 +1,1959 @@
+[
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 0,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      12662
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/12000/12662_hr",
+    "background": "Patient Information: - Patient ID: 14015; - Age: 81; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1994-08-02 17:12:22; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 1,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      10923
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/10000/10923_hr",
+    "background": "Patient Information: - Patient ID: 5849; - Age: 74; - Sex: 0; - Height: 178; - Weight: 71; Recording Details: - Recording Date: 1993-09-04 13:36:57; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 2,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      10777
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/10000/10777_hr",
+    "background": "Patient Information: - Patient ID: 3803; - Age: 53; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1993-08-06 15:50:25; - Nurse ID: nan; - Site ID: 4; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 3,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4803
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04803_hr",
+    "background": "Patient Information: - Patient ID: 11529; - Age: 50; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1990-08-17 18:33:49; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 4,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3311
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03311_hr",
+    "background": "Patient Information: - Patient ID: 6604; - Age: 65; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1989-08-10 15:45:59; - Nurse ID: nan; - Site ID: 4; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 5,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      11758
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/11000/11758_hr",
+    "background": "Patient Information: - Patient ID: 6276; - Age: 82; - Sex: 1; - Height: 150; - Weight: 55; Recording Details: - Recording Date: 1994-01-29 11:06:50; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 6,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      7076
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/07000/07076_hr",
+    "background": "Patient Information: - Patient ID: 6951; - Age: 62; - Sex: 0; - Height: 177; - Weight: 86; Recording Details: - Recording Date: 1991-09-30 12:46:45; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 7,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1605
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01605_hr",
+    "background": "Patient Information: - Patient ID: 5385; - Age: 82; - Sex: 1; - Height: 160; - Weight: 75; Recording Details: - Recording Date: 1988-04-25 15:04:22; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 8,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      11560
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/11000/11560_hr",
+    "background": "Patient Information: - Patient ID: 13828; - Age: 85; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1993-12-22 12:30:36; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 9,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      2967
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/02000/02967_hr",
+    "background": "Patient Information: - Patient ID: 7635; - Age: 67; - Sex: 1; - Height: 150; - Weight: 47; Recording Details: - Recording Date: 1989-06-25 18:30:09; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 10,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3972
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03972_hr",
+    "background": "Patient Information: - Patient ID: 5874; - Age: 82; - Sex: 1; - Height: 162; - Weight: 80; Recording Details: - Recording Date: 1990-04-11 14:27:17; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 11,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      987
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00987_hr",
+    "background": "Patient Information: - Patient ID: 7818; - Age: 79; - Sex: 0; - Height: 165; - Weight: 67; Recording Details: - Recording Date: 1987-07-25 14:22:16; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 12,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      16452
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/16000/16452_hr",
+    "background": "Patient Information: - Patient ID: 4457; - Age: 65; - Sex: 1; - Height: 178; - Weight: 102; Recording Details: - Recording Date: 1996-07-20 11:43:38; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 13,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3009
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03009_hr",
+    "background": "Patient Information: - Patient ID: 3399; - Age: 62; - Sex: 1; - Height: 165; - Weight: 76; Recording Details: - Recording Date: 1989-07-01 06:41:12; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 14,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1932
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01932_hr",
+    "background": "Patient Information: - Patient ID: 5769; - Age: 85; - Sex: 1; - Height: 174; - Weight: 64; Recording Details: - Recording Date: 1988-07-18 12:05:07; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 15,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      14244
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/14000/14244_hr",
+    "background": "Patient Information: - Patient ID: 8694; - Age: 80; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1995-06-21 07:43:02; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 16,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15683
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15683_hr",
+    "background": "Patient Information: - Patient ID: 5560; - Age: 73; - Sex: 1; - Height: 157; - Weight: 37; Recording Details: - Recording Date: 1996-01-27 16:08:09; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 17,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      5861
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/05000/05861_hr",
+    "background": "Patient Information: - Patient ID: 19492; - Age: 52; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1991-03-01 13:10:32; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 18,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      19644
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/19000/19644_hr",
+    "background": "Patient Information: - Patient ID: 19335; - Age: 300; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1998-09-16 18:55:15; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 19,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4729
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04729_hr",
+    "background": "Patient Information: - Patient ID: 12802; - Age: 76; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1990-08-08 12:05:21; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 20,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      9511
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/09000/09511_hr",
+    "background": "Patient Information: - Patient ID: 13728; - Age: 61; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1992-12-15 13:13:08; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 21,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      12404
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/12000/12404_hr",
+    "background": "Patient Information: - Patient ID: 3313; - Age: 85; - Sex: 1; - Height: 156; - Weight: 58; Recording Details: - Recording Date: 1994-07-09 18:02:01; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 22,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      994
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00994_hr",
+    "background": "Patient Information: - Patient ID: 1119; - Age: 53; - Sex: 0; - Height: 173; - Weight: 78; Recording Details: - Recording Date: 1987-07-26 10:56:23; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 23,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3502
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03502_hr",
+    "background": "Patient Information: - Patient ID: 6806; - Age: 87; - Sex: 0; - Height: 152; - Weight: 55; Recording Details: - Recording Date: 1989-09-29 19:33:23; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 24,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      16390
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/16000/16390_hr",
+    "background": "Patient Information: - Patient ID: 617; - Age: 76; - Sex: 0; - Height: 183; - Weight: 76; Recording Details: - Recording Date: 1996-07-14 16:26:44; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 25,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      16470
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/16000/16470_hr",
+    "background": "Patient Information: - Patient ID: 7359; - Age: 89; - Sex: 1; - Height: 175; - Weight: 63; Recording Details: - Recording Date: 1996-07-22 12:22:32; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 26,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      10137
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/10000/10137_hr",
+    "background": "Patient Information: - Patient ID: 3884; - Age: 82; - Sex: 1; - Height: 164; - Weight: 70; Recording Details: - Recording Date: 1993-05-04 12:31:51; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 27,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      2279
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/02000/02279_hr",
+    "background": "Patient Information: - Patient ID: 4588; - Age: 55; - Sex: 1; - Height: 166; - Weight: 59; Recording Details: - Recording Date: 1988-09-25 19:47:48; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 28,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      5150
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/05000/05150_hr",
+    "background": "Patient Information: - Patient ID: 12930; - Age: 64; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1990-10-11 16:48:22; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 29,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      8026
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/08000/08026_hr",
+    "background": "Patient Information: - Patient ID: 3376; - Age: 65; - Sex: 1; - Height: 160; - Weight: 59; Recording Details: - Recording Date: 1992-04-27 14:10:13; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 30,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      14672
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/14000/14672_hr",
+    "background": "Patient Information: - Patient ID: 15169; - Age: 56; - Sex: 0; - Height: nan; - Weight: 76; Recording Details: - Recording Date: 1995-08-05 02:24:30; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 31,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      11226
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/11000/11226_hr",
+    "background": "Patient Information: - Patient ID: 15243; - Age: 62; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1993-10-18 07:47:38; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 32,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      8601
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/08000/08601_hr",
+    "background": "Patient Information: - Patient ID: 7092; - Age: 87; - Sex: 1; - Height: 160; - Weight: 63; Recording Details: - Recording Date: 1992-07-27 10:17:52; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 33,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      18537
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/18000/18537_hr",
+    "background": "Patient Information: - Patient ID: 21486; - Age: 49; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1997-09-13 13:42:27; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 34,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3188
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03188_hr",
+    "background": "Patient Information: - Patient ID: 3892; - Age: 80; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1989-07-25 08:53:08; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 35,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      5739
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/05000/05739_hr",
+    "background": "Patient Information: - Patient ID: 1502; - Age: 72; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1991-01-29 08:07:25; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 36,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      12544
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/12000/12544_hr",
+    "background": "Patient Information: - Patient ID: 7299; - Age: 57; - Sex: 0; - Height: 193; - Weight: 115; Recording Details: - Recording Date: 1994-07-23 11:54:08; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 37,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      21679
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/21000/21679_hr",
+    "background": "Patient Information: - Patient ID: 12058; - Age: 64; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 2000-12-26 16:14:26; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 38,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      18464
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/18000/18464_hr",
+    "background": "Patient Information: - Patient ID: 8024; - Age: 35; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1997-08-27 13:21:15; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 39,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      13292
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/13000/13292_hr",
+    "background": "Patient Information: - Patient ID: 20811; - Age: 65; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1994-11-06 18:14:28; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 40,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4772
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04772_hr",
+    "background": "Patient Information: - Patient ID: 3047; - Age: 300; - Sex: 1; - Height: 152; - Weight: 50; Recording Details: - Recording Date: 1990-08-13 08:06:05; - Nurse ID: nan; - Site ID: 10; - Device ID: AT-6 C 5.0."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 41,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      7786
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/07000/07786_hr",
+    "background": "Patient Information: - Patient ID: 11931; - Age: 48; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1992-02-23 11:06:36; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 42,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15032
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15032_hr",
+    "background": "Patient Information: - Patient ID: 10459; - Age: 89; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1995-09-20 10:04:37; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 43,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      19013
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/19000/19013_hr",
+    "background": "Patient Information: - Patient ID: 18558; - Age: 25; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1997-12-24 07:11:56; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 44,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      12681
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/12000/12681_hr",
+    "background": "Patient Information: - Patient ID: 4477; - Age: 70; - Sex: 0; - Height: 171; - Weight: 87; Recording Details: - Recording Date: 1994-08-03 15:48:23; - Nurse ID: nan; - Site ID: 10; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 45,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      575
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00575_hr",
+    "background": "Patient Information: - Patient ID: 1357; - Age: 77; - Sex: 0; - Height: 183; - Weight: 94; Recording Details: - Recording Date: 1987-03-26 10:39:11; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 46,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3915
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03915_hr",
+    "background": "Patient Information: - Patient ID: 16939; - Age: 58; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1990-03-20 12:48:51; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 47,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      573
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00573_hr",
+    "background": "Patient Information: - Patient ID: 5837; - Age: 73; - Sex: 1; - Height: 164; - Weight: 70; Recording Details: - Recording Date: 1987-03-26 10:23:42; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 48,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      16006
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/16000/16006_hr",
+    "background": "Patient Information: - Patient ID: 7555; - Age: 49; - Sex: 0; - Height: 170; - Weight: 100; Recording Details: - Recording Date: 1996-04-25 19:23:49; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 49,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      20909
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/20000/20909_hr",
+    "background": "Patient Information: - Patient ID: 18216; - Age: 82; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1999-12-08 13:16:53; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 50,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      5201
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/05000/05201_hr",
+    "background": "Patient Information: - Patient ID: 19944; - Age: 75; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1990-10-21 08:35:58; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 51,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      17905
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/17000/17905_hr",
+    "background": "Patient Information: - Patient ID: 19051; - Age: 71; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1997-05-30 15:39:35; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 52,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1552
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01552_hr",
+    "background": "Patient Information: - Patient ID: 2118; - Age: 42; - Sex: 1; - Height: 158; - Weight: 70; Recording Details: - Recording Date: 1988-04-16 14:20:30; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 53,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      18249
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/18000/18249_hr",
+    "background": "Patient Information: - Patient ID: 2306; - Age: 67; - Sex: 1; - Height: 150; - Weight: 90; Recording Details: - Recording Date: 1997-07-27 12:12:37; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 54,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15873
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15873_hr",
+    "background": "Patient Information: - Patient ID: 1324; - Age: 66; - Sex: 0; - Height: 179; - Weight: 98; Recording Details: - Recording Date: 1996-03-21 19:49:53; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 55,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3185
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03185_hr",
+    "background": "Patient Information: - Patient ID: 522; - Age: 67; - Sex: 0; - Height: 173; - Weight: 84; Recording Details: - Recording Date: 1989-07-24 14:44:14; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 56,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15836
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15836_hr",
+    "background": "Patient Information: - Patient ID: 13773; - Age: 67; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1996-03-11 11:51:04; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 57,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      16871
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/16000/16871_hr",
+    "background": "Patient Information: - Patient ID: 9056; - Age: 63; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1996-09-17 11:50:44; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 58,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      20770
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/20000/20770_hr",
+    "background": "Patient Information: - Patient ID: 14901; - Age: 65; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1999-11-01 20:10:31; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 59,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      19914
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/19000/19914_hr",
+    "background": "Patient Information: - Patient ID: 9938; - Age: 78; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1998-11-14 09:14:43; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 60,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1298
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01298_hr",
+    "background": "Patient Information: - Patient ID: 9281; - Age: 55; - Sex: 0; - Height: nan; - Weight: 66; Recording Details: - Recording Date: 1988-01-12 09:54:07; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 61,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15927
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15927_hr",
+    "background": "Patient Information: - Patient ID: 758; - Age: 31; - Sex: 0; - Height: 185; - Weight: 115; Recording Details: - Recording Date: 1996-04-12 11:15:43; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 62,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      873
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00873_hr",
+    "background": "Patient Information: - Patient ID: 5335; - Age: 300; - Sex: 1; - Height: 152; - Weight: 51; Recording Details: - Recording Date: 1987-07-03 15:04:26; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 63,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15340
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15340_hr",
+    "background": "Patient Information: - Patient ID: 11433; - Age: 50; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1995-11-17 16:02:55; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 64,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      19311
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/19000/19311_hr",
+    "background": "Patient Information: - Patient ID: 15440; - Age: 40; - Sex: 1; - Height: nan; - Weight: 57; Recording Details: - Recording Date: 1998-06-16 09:11:04; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 65,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      7792
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/07000/07792_hr",
+    "background": "Patient Information: - Patient ID: 5617; - Age: 41; - Sex: 0; - Height: 188; - Weight: 95; Recording Details: - Recording Date: 1992-02-25 07:14:06; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 66,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      908
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00908_hr",
+    "background": "Patient Information: - Patient ID: 2853; - Age: 52; - Sex: 1; - Height: 168; - Weight: 60; Recording Details: - Recording Date: 1987-07-12 16:21:56; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 67,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      6244
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/06000/06244_hr",
+    "background": "Patient Information: - Patient ID: 18088; - Age: 88; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1991-06-07 17:57:12; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 68,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      12003
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/12000/12003_hr",
+    "background": "Patient Information: - Patient ID: 505; - Age: 77; - Sex: 1; - Height: 160; - Weight: 55; Recording Details: - Recording Date: 1994-04-14 11:36:29; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 69,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      20254
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/20000/20254_hr",
+    "background": "Patient Information: - Patient ID: 13010; - Age: 86; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1999-03-01 08:57:30; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 70,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1333
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01333_hr",
+    "background": "Patient Information: - Patient ID: 7498; - Age: 60; - Sex: 1; - Height: 162; - Weight: 56; Recording Details: - Recording Date: 1988-01-30 09:28:28; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 71,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1402
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01402_hr",
+    "background": "Patient Information: - Patient ID: 7700; - Age: 41; - Sex: 1; - Height: 160; - Weight: 80; Recording Details: - Recording Date: 1988-02-28 12:01:52; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 72,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4457
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04457_hr",
+    "background": "Patient Information: - Patient ID: 7622; - Age: 53; - Sex: 0; - Height: 165; - Weight: 76; Recording Details: - Recording Date: 1990-07-14 13:28:00; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 73,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      11759
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/11000/11759_hr",
+    "background": "Patient Information: - Patient ID: 3845; - Age: 77; - Sex: 1; - Height: 163; - Weight: 57; Recording Details: - Recording Date: 1994-01-29 11:19:14; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 74,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      14674
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/14000/14674_hr",
+    "background": "Patient Information: - Patient ID: 7737; - Age: 63; - Sex: 1; - Height: 154; - Weight: 83; Recording Details: - Recording Date: 1995-08-05 07:49:07; - Nurse ID: nan; - Site ID: 28; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 75,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4128
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04128_hr",
+    "background": "Patient Information: - Patient ID: 2679; - Age: 76; - Sex: 0; - Height: 170; - Weight: 76; Recording Details: - Recording Date: 1990-05-05 14:43:29; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 76,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      8114
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/08000/08114_hr",
+    "background": "Patient Information: - Patient ID: 6191; - Age: 56; - Sex: 1; - Height: 160; - Weight: 65; Recording Details: - Recording Date: 1992-05-06 11:09:50; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 77,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      2925
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/02000/02925_hr",
+    "background": "Patient Information: - Patient ID: 8810; - Age: 83; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1989-06-11 10:02:24; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 78,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      12830
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/12000/12830_hr",
+    "background": "Patient Information: - Patient ID: 13656; - Age: 50; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1994-08-22 15:17:06; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 79,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      5545
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/05000/05545_hr",
+    "background": "Patient Information: - Patient ID: 16599; - Age: 32; - Sex: 1; - Height: nan; - Weight: 58; Recording Details: - Recording Date: 1990-12-18 13:33:01; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 80,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4118
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04118_hr",
+    "background": "Patient Information: - Patient ID: 3929; - Age: 80; - Sex: 0; - Height: 170; - Weight: 74; Recording Details: - Recording Date: 1990-05-05 07:26:18; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 81,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      15514
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/15000/15514_hr",
+    "background": "Patient Information: - Patient ID: 12631; - Age: 84; - Sex: 1; - Height: 90; - Weight: nan; Recording Details: - Recording Date: 1995-12-25 09:05:41; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 82,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4559
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04559_hr",
+    "background": "Patient Information: - Patient ID: 21140; - Age: 300; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1990-07-24 08:03:21; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 83,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      328
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00328_hr",
+    "background": "Patient Information: - Patient ID: 6519; - Age: 69; - Sex: 1; - Height: 160; - Weight: 80; Recording Details: - Recording Date: 1986-09-16 17:37:28; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 84,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      17716
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/17000/17716_hr",
+    "background": "Patient Information: - Patient ID: 554; - Age: 76; - Sex: 0; - Height: 166; - Weight: 82; Recording Details: - Recording Date: 1997-04-07 07:26:34; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 85,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      11851
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/11000/11851_hr",
+    "background": "Patient Information: - Patient ID: 2888; - Age: 70; - Sex: 1; - Height: 160; - Weight: 79; Recording Details: - Recording Date: 1994-02-27 08:41:56; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 86,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      8003
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/08000/08003_hr",
+    "background": "Patient Information: - Patient ID: 13228; - Age: 51; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1992-04-22 15:31:54; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 87,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3464
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03464_hr",
+    "background": "Patient Information: - Patient ID: 6809; - Age: 46; - Sex: 1; - Height: 152; - Weight: 65; Recording Details: - Recording Date: 1989-09-19 08:56:45; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 88,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1035
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01035_hr",
+    "background": "Patient Information: - Patient ID: 2417; - Age: 76; - Sex: 0; - Height: 168; - Weight: 79; Recording Details: - Recording Date: 1987-08-02 10:47:59; - Nurse ID: nan; - Site ID: 17; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 89,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      19129
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/19000/19129_hr",
+    "background": "Patient Information: - Patient ID: 10408; - Age: 83; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1998-01-22 15:32:52; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 90,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      14924
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/14000/14924_hr",
+    "background": "Patient Information: - Patient ID: 1232; - Age: 54; - Sex: 1; - Height: 164; - Weight: 80; Recording Details: - Recording Date: 1995-09-08 08:42:00; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 91,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      6731
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/06000/06731_hr",
+    "background": "Patient Information: - Patient ID: 6579; - Age: 65; - Sex: 0; - Height: 165; - Weight: 75; Recording Details: - Recording Date: 1991-08-07 12:24:52; - Nurse ID: nan; - Site ID: 21; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 92,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      627
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/00000/00627_hr",
+    "background": "Patient Information: - Patient ID: 2819; - Age: 69; - Sex: 0; - Height: 170; - Weight: 70; Recording Details: - Recording Date: 1987-04-16 23:20:03; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 93,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      1193
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/01000/01193_hr",
+    "background": "Patient Information: - Patient ID: 2855; - Age: 84; - Sex: 0; - Height: 175; - Weight: 75; Recording Details: - Recording Date: 1987-09-20 11:36:43; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 94,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      11867
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/11000/11867_hr",
+    "background": "Patient Information: - Patient ID: 16225; - Age: 300; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1994-03-03 09:25:29; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 95,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3069
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03069_hr",
+    "background": "Patient Information: - Patient ID: 10781; - Age: 55; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1989-07-09 15:01:09; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 96,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      4108
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/04000/04108_hr",
+    "background": "Patient Information: - Patient ID: 1925; - Age: 68; - Sex: 1; - Height: 157; - Weight: 37; Recording Details: - Recording Date: 1990-05-01 14:16:08; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 97,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      16119
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/16000/16119_hr",
+    "background": "Patient Information: - Patient ID: 14053; - Age: 73; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1996-05-23 22:38:25; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 98,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      13302
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/13000/13302_hr",
+    "background": "Patient Information: - Patient ID: 14789; - Age: 88; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1994-11-09 05:40:02; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 99,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      3171
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/03000/03171_hr",
+    "background": "Patient Information: - Patient ID: 5594; - Age: 44; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1989-07-23 12:55:39; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 100,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "not sure"
+    ],
+    "ecg_id": [
+      7037
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/07000/07037_hr",
+    "background": "Patient Information: - Patient ID: 3570; - Age: 54; - Sex: 0; - Height: 176; - Weight: 70; Recording Details: - Recording Date: 1991-09-25 10:03:50; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 101,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "not sure"
+    ],
+    "ecg_id": [
+      7881
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/07000/07881_hr",
+    "background": "Patient Information: - Patient ID: 9740; - Age: 59; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1992-03-18 12:20:41; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 102,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of non-diagnostic t abnormalities?",
+    "answer": [
+      "not sure"
+    ],
+    "ecg_id": [
+      7820
+    ],
+    "attribute": [
+      "non-diagnostic t abnormalities"
+    ],
+    "ecg_path": "records500/07000/07820_hr",
+    "background": "Patient Information: - Patient ID: 17353; - Age: 300; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1992-02-28 10:34:26; - Nurse ID: 1; - Site ID: 2; - Device ID: AT-60    3."
+  }
+]

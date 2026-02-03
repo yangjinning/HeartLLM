@@ -1,0 +1,2890 @@
+[
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 0,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48537430
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1834/p18345333/s48537430/48537430",
+    "background": "Recording Details: - Patient ID: 18345333; - Recording Date: 2111-02-08 11:34:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 1,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41718123
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1544/p15441487/s41718123/41718123",
+    "background": "Recording Details: - Patient ID: 15441487; - Recording Date: 2182-08-30 11:41:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 2,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41782350
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1201/p12013634/s41782350/41782350",
+    "background": "Recording Details: - Patient ID: 12013634; - Recording Date: 2138-01-04 16:08:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 3,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41035059
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1586/p15862403/s41035059/41035059",
+    "background": "Recording Details: - Patient ID: 15862403; - Recording Date: 2166-09-20 08:56:00; - Device ID: 6610295; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 4,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44821907
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1238/p12389290/s44821907/44821907",
+    "background": "Recording Details: - Patient ID: 12389290; - Recording Date: 2131-01-01 12:52:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 5,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48287686
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1928/p19281594/s48287686/48287686",
+    "background": "Recording Details: - Patient ID: 19281594; - Recording Date: 2176-10-19 20:07:00; - Device ID: 6733344; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 6,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48254717
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1312/p13126529/s48254717/48254717",
+    "background": "Recording Details: - Patient ID: 13126529; - Recording Date: 2153-07-13 09:41:00; - Device ID: 6154636; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 7,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      42340858
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1930/p19305313/s42340858/42340858",
+    "background": "Recording Details: - Patient ID: 19305313; - Recording Date: 2128-08-26 16:12:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 8,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41521059
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1509/p15094685/s41521059/41521059",
+    "background": "Recording Details: - Patient ID: 15094685; - Recording Date: 2177-09-10 05:05:00; - Device ID: 6419971; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 9,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47169464
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1519/p15190491/s47169464/47169464",
+    "background": "Recording Details: - Patient ID: 15190491; - Recording Date: 2186-05-15 07:32:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 10,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44959201
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1896/p18966399/s44959201/44959201",
+    "background": "Recording Details: - Patient ID: 18966399; - Recording Date: 2182-08-26 12:48:00; - Device ID: 6707192; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 11,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48401633
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1442/p14425541/s48401633/48401633",
+    "background": "Recording Details: - Patient ID: 14425541; - Recording Date: 2112-12-15 20:19:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 12,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41407882
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1676/p16760293/s41407882/41407882",
+    "background": "Recording Details: - Patient ID: 16760293; - Recording Date: 2163-04-04 18:46:00; - Device ID: 6966829; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 13,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48122524
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1102/p11028696/s48122524/48122524",
+    "background": "Recording Details: - Patient ID: 11028696; - Recording Date: 2177-07-13 18:02:00; - Device ID: 6072223; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 14,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47422208
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1332/p13326315/s47422208/47422208",
+    "background": "Recording Details: - Patient ID: 13326315; - Recording Date: 2149-12-30 20:53:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 15,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44575194
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1837/p18377831/s44575194/44575194",
+    "background": "Recording Details: - Patient ID: 18377831; - Recording Date: 2154-03-18 20:51:00; - Device ID: 6721756; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 16,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      40406892
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1555/p15559171/s40406892/40406892",
+    "background": "Recording Details: - Patient ID: 15559171; - Recording Date: 2160-04-09 11:38:00; - Device ID: 6072223; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 17,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      43975497
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1454/p14544923/s43975497/43975497",
+    "background": "Recording Details: - Patient ID: 14544923; - Recording Date: 2129-01-17 17:48:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 18,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41089956
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1552/p15529160/s41089956/41089956",
+    "background": "Recording Details: - Patient ID: 15529160; - Recording Date: 2122-12-18 07:26:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 19,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41493758
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1899/p18990664/s41493758/41493758",
+    "background": "Recording Details: - Patient ID: 18990664; - Recording Date: 2147-11-06 13:31:00; - Device ID: 6610295; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 20,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44770961
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1795/p17953562/s44770961/44770961",
+    "background": "Recording Details: - Patient ID: 17953562; - Recording Date: 2112-02-23 10:01:00; - Device ID: 6602038; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 21,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      46279748
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1322/p13220594/s46279748/46279748",
+    "background": "Recording Details: - Patient ID: 13220594; - Recording Date: 2135-05-19 10:44:00; - Device ID: 6228136; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 22,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48556643
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1018/p10180204/s48556643/48556643",
+    "background": "Recording Details: - Patient ID: 10180204; - Recording Date: 2148-08-05 15:38:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 23,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43905594
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1759/p17596014/s43905594/43905594",
+    "background": "Recording Details: - Patient ID: 17596014; - Recording Date: 2167-05-26 16:46:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 24,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49777329
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1099/p10990038/s49777329/49777329",
+    "background": "Recording Details: - Patient ID: 10990038; - Recording Date: 2190-01-09 14:06:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 25,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40402984
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1396/p13962649/s40402984/40402984",
+    "background": "Recording Details: - Patient ID: 13962649; - Recording Date: 2194-10-16 08:55:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 26,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41037424
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1950/p19501510/s41037424/41037424",
+    "background": "Recording Details: - Patient ID: 19501510; - Recording Date: 2189-06-27 17:10:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 27,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47060144
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1910/p19105515/s47060144/47060144",
+    "background": "Recording Details: - Patient ID: 19105515; - Recording Date: 2198-03-24 17:06:00; - Device ID: 6848296; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 28,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47257423
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1970/p19708564/s47257423/47257423",
+    "background": "Recording Details: - Patient ID: 19708564; - Recording Date: 2169-04-10 02:56:00; - Device ID: 6931792; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 29,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44533049
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1166/p11665334/s44533049/44533049",
+    "background": "Recording Details: - Patient ID: 11665334; - Recording Date: 2160-07-21 10:56:00; - Device ID: 6417848; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 30,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49715119
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1876/p18767618/s49715119/49715119",
+    "background": "Recording Details: - Patient ID: 18767618; - Recording Date: 2160-06-12 09:53:00; - Device ID: 6920139; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 31,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44446816
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1841/p18419056/s44446816/44446816",
+    "background": "Recording Details: - Patient ID: 18419056; - Recording Date: 2113-04-14 13:49:00; - Device ID: 6332886; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 32,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45846278
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1176/p11765816/s45846278/45846278",
+    "background": "Recording Details: - Patient ID: 11765816; - Recording Date: 2180-01-02 08:08:00; - Device ID: 6903271; - Bandwidth: 0.005-150 Hz; - Filtering: Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 33,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47894953
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1149/p11490468/s47894953/47894953",
+    "background": "Recording Details: - Patient ID: 11490468; - Recording Date: 2145-02-03 11:06:00; - Device ID: 6668070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 34,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42124900
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1112/p11128203/s42124900/42124900",
+    "background": "Recording Details: - Patient ID: 11128203; - Recording Date: 2174-02-15 11:20:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 35,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42742777
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1456/p14566443/s42742777/42742777",
+    "background": "Recording Details: - Patient ID: 14566443; - Recording Date: 2129-03-24 15:07:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 36,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41305758
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1809/p18092291/s41305758/41305758",
+    "background": "Recording Details: - Patient ID: 18092291; - Recording Date: 2189-08-15 14:21:00; - Device ID: 6668070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 37,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49269029
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1867/p18676703/s49269029/49269029",
+    "background": "Recording Details: - Patient ID: 18676703; - Recording Date: 2147-06-07 19:50:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 38,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      46009225
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1060/p10607312/s46009225/46009225",
+    "background": "Recording Details: - Patient ID: 10607312; - Recording Date: 2149-07-27 22:37:00; - Device ID: 6245150; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 39,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41813759
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1935/p19358609/s41813759/41813759",
+    "background": "Recording Details: - Patient ID: 19358609; - Recording Date: 2193-09-03 12:06:00; - Device ID: 6903271; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 40,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44551231
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1474/p14745995/s44551231/44551231",
+    "background": "Recording Details: - Patient ID: 14745995; - Recording Date: 2180-02-25 07:23:00; - Device ID: 6211065; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 41,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41133444
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1659/p16599161/s41133444/41133444",
+    "background": "Recording Details: - Patient ID: 16599161; - Recording Date: 2155-11-21 08:42:00; - Device ID: 6211065; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 42,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42246735
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1676/p16760293/s42246735/42246735",
+    "background": "Recording Details: - Patient ID: 16760293; - Recording Date: 2163-08-10 14:19:00; - Device ID: 6245150; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 43,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49967322
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1649/p16493987/s49967322/49967322",
+    "background": "Recording Details: - Patient ID: 16493987; - Recording Date: 2145-04-11 18:24:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 44,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45047806
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1943/p19437648/s45047806/45047806",
+    "background": "Recording Details: - Patient ID: 19437648; - Recording Date: 2157-08-10 08:59:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 45,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      46701126
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1931/p19318890/s46701126/46701126",
+    "background": "Recording Details: - Patient ID: 19318890; - Recording Date: 2117-04-21 09:01:00; - Device ID: 6049786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 46,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48455528
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1025/p10251802/s48455528/48455528",
+    "background": "Recording Details: - Patient ID: 10251802; - Recording Date: 2171-12-16 07:34:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 47,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47478185
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1670/p16706531/s47478185/47478185",
+    "background": "Recording Details: - Patient ID: 16706531; - Recording Date: 2177-09-26 15:38:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 48,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44744392
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1906/p19069731/s44744392/44744392",
+    "background": "Recording Details: - Patient ID: 19069731; - Recording Date: 2192-07-28 13:25:00; - Device ID: 6975835; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 49,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40641685
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1996/p19966115/s40641685/40641685",
+    "background": "Recording Details: - Patient ID: 19966115; - Recording Date: 2184-07-17 09:28:00; - Device ID: 6556494; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 50,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49517566
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1099/p10994222/s49517566/49517566",
+    "background": "Recording Details: - Patient ID: 10994222; - Recording Date: 2136-11-16 11:59:00; - Device ID: 6376932; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 51,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49453690
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1186/p11865109/s49453690/49453690",
+    "background": "Recording Details: - Patient ID: 11865109; - Recording Date: 2181-04-19 22:20:00; - Device ID: 6556494; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 52,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40269402
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1312/p13122353/s40269402/40269402",
+    "background": "Recording Details: - Patient ID: 13122353; - Recording Date: 2128-08-20 10:51:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 53,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42176904
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1374/p13745932/s42176904/42176904",
+    "background": "Recording Details: - Patient ID: 13745932; - Recording Date: 2173-02-05 22:46:00; - Device ID: 6589359; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 54,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47864623
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1976/p19765968/s47864623/47864623",
+    "background": "Recording Details: - Patient ID: 19765968; - Recording Date: 2151-12-14 22:35:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 55,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41188969
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1003/p10039688/s41188969/41188969",
+    "background": "Recording Details: - Patient ID: 10039688; - Recording Date: 2148-02-18 08:48:00; - Device ID: 6863199; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 56,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49513153
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1027/p10279343/s49513153/49513153",
+    "background": "Recording Details: - Patient ID: 10279343; - Recording Date: 2164-03-04 13:35:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 57,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43389303
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1534/p15344415/s43389303/43389303",
+    "background": "Recording Details: - Patient ID: 15344415; - Recording Date: 2127-12-27 08:31:00; - Device ID: 6071137; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 58,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45174802
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1848/p18485280/s45174802/45174802",
+    "background": "Recording Details: - Patient ID: 18485280; - Recording Date: 2179-01-31 11:27:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 0,
+    "sample_id": 59,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43821557
+    ],
+    "attribute": [
+      "2:1 AV block"
+    ],
+    "ecg_path": "p1054/p10543355/s43821557/43821557",
+    "background": "Recording Details: - Patient ID: 10543355; - Recording Date: 2175-12-22 11:47:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 1,
+    "sample_id": 60,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 sinoatrial block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      42863735
+    ],
+    "attribute": [
+      "2:1 sinoatrial block"
+    ],
+    "ecg_path": "p1180/p11808456/s42863735/42863735",
+    "background": "Recording Details: - Patient ID: 11808456; - Recording Date: 2126-08-11 13:45:00; - Device ID: 6518437; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 1,
+    "sample_id": 61,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 sinoatrial block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47372768
+    ],
+    "attribute": [
+      "2:1 sinoatrial block"
+    ],
+    "ecg_path": "p1461/p14611354/s47372768/47372768",
+    "background": "Recording Details: - Patient ID: 14611354; - Recording Date: 2206-03-14 07:45:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 1,
+    "sample_id": 62,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 sinoatrial block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49460375
+    ],
+    "attribute": [
+      "2:1 sinoatrial block"
+    ],
+    "ecg_path": "p1427/p14277146/s49460375/49460375",
+    "background": "Recording Details: - Patient ID: 14277146; - Recording Date: 2169-03-28 13:51:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 1,
+    "sample_id": 63,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 sinoatrial block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49699474
+    ],
+    "attribute": [
+      "2:1 sinoatrial block"
+    ],
+    "ecg_path": "p1873/p18738673/s49699474/49699474",
+    "background": "Recording Details: - Patient ID: 18738673; - Recording Date: 2157-11-13 08:41:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 1,
+    "sample_id": 64,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 sinoatrial block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45043943
+    ],
+    "attribute": [
+      "2:1 sinoatrial block"
+    ],
+    "ecg_path": "p1497/p14975281/s45043943/45043943",
+    "background": "Recording Details: - Patient ID: 14975281; - Recording Date: 2190-10-17 08:34:00; - Device ID: 6975835; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 1,
+    "sample_id": 65,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 2:1 sinoatrial block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      46479990
+    ],
+    "attribute": [
+      "2:1 sinoatrial block"
+    ],
+    "ecg_path": "p1611/p16119159/s46479990/46479990",
+    "background": "Recording Details: - Patient ID: 16119159; - Recording Date: 2155-11-11 15:13:00; - Device ID: 6668070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 66,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      45186690
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1784/p17846379/s45186690/45186690",
+    "background": "Recording Details: - Patient ID: 17846379; - Recording Date: 2185-05-02 15:47:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 67,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49812243
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1763/p17632235/s49812243/49812243",
+    "background": "Recording Details: - Patient ID: 17632235; - Recording Date: 2155-05-07 23:55:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 68,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44043722
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1922/p19222287/s44043722/44043722",
+    "background": "Recording Details: - Patient ID: 19222287; - Recording Date: 2186-05-24 17:57:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 69,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49226873
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1948/p19488061/s49226873/49226873",
+    "background": "Recording Details: - Patient ID: 19488061; - Recording Date: 2118-03-16 03:48:00; - Device ID: 6397099; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 70,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      43176746
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1206/p12067295/s43176746/43176746",
+    "background": "Recording Details: - Patient ID: 12067295; - Recording Date: 2132-09-23 06:57:00; - Device ID: 6315641; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 71,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41984169
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1007/p10070614/s41984169/41984169",
+    "background": "Recording Details: - Patient ID: 10070614; - Recording Date: 2166-12-05 17:26:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 72,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      46367286
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1214/p12140660/s46367286/46367286",
+    "background": "Recording Details: - Patient ID: 12140660; - Recording Date: 2156-09-13 07:07:00; - Device ID: 6896680; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 73,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44993041
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1598/p15983956/s44993041/44993041",
+    "background": "Recording Details: - Patient ID: 15983956; - Recording Date: 2170-10-26 07:02:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 74,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      42510944
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1839/p18393728/s42510944/42510944",
+    "background": "Recording Details: - Patient ID: 18393728; - Recording Date: 2184-11-17 09:20:00; - Device ID: 6848296; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 75,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      43056959
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1327/p13276100/s43056959/43056959",
+    "background": "Recording Details: - Patient ID: 13276100; - Recording Date: 2123-04-30 16:19:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 76,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47839686
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1141/p11418223/s47839686/47839686",
+    "background": "Recording Details: - Patient ID: 11418223; - Recording Date: 2178-08-30 11:42:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 77,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      43794416
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1058/p10586112/s43794416/43794416",
+    "background": "Recording Details: - Patient ID: 10586112; - Recording Date: 2191-09-03 15:11:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 78,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      43188518
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1621/p16211783/s43188518/43188518",
+    "background": "Recording Details: - Patient ID: 16211783; - Recording Date: 2141-12-20 13:26:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 79,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48451372
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1323/p13237293/s48451372/48451372",
+    "background": "Recording Details: - Patient ID: 13237293; - Recording Date: 2185-08-12 18:51:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 80,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47192800
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1555/p15559489/s47192800/47192800",
+    "background": "Recording Details: - Patient ID: 15559489; - Recording Date: 2159-08-26 16:11:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 81,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49655440
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1759/p17596014/s49655440/49655440",
+    "background": "Recording Details: - Patient ID: 17596014; - Recording Date: 2165-07-08 14:41:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 82,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44425453
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1484/p14843753/s44425453/44425453",
+    "background": "Recording Details: - Patient ID: 14843753; - Recording Date: 2116-03-05 10:35:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 83,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      46767681
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1431/p14311522/s46767681/46767681",
+    "background": "Recording Details: - Patient ID: 14311522; - Recording Date: 2111-09-24 22:50:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 84,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49642600
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1499/p14995394/s49642600/49642600",
+    "background": "Recording Details: - Patient ID: 14995394; - Recording Date: 2146-02-25 18:20:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 85,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      42526708
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1812/p18129598/s42526708/42526708",
+    "background": "Recording Details: - Patient ID: 18129598; - Recording Date: 2152-11-07 14:16:00; - Device ID: 6060164; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 86,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43951991
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1807/p18070042/s43951991/43951991",
+    "background": "Recording Details: - Patient ID: 18070042; - Recording Date: 2118-07-04 17:32:00; - Device ID: 6728580; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 87,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41482180
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1660/p16600484/s41482180/41482180",
+    "background": "Recording Details: - Patient ID: 16600484; - Recording Date: 2152-04-15 11:58:00; - Device ID: 6894652; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 88,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42382351
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1821/p18211566/s42382351/42382351",
+    "background": "Recording Details: - Patient ID: 18211566; - Recording Date: 2140-05-23 07:29:00; - Device ID: 6211065; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 89,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47678332
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1599/p15992459/s47678332/47678332",
+    "background": "Recording Details: - Patient ID: 15992459; - Recording Date: 2160-06-01 14:00:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 90,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49067538
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1765/p17659348/s49067538/49067538",
+    "background": "Recording Details: - Patient ID: 17659348; - Recording Date: 2145-06-15 14:50:00; - Device ID: 6398092; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 91,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41570515
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1307/p13077774/s41570515/41570515",
+    "background": "Recording Details: - Patient ID: 13077774; - Recording Date: 2112-09-26 21:11:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 92,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45810063
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1853/p18533644/s45810063/45810063",
+    "background": "Recording Details: - Patient ID: 18533644; - Recording Date: 2183-08-07 00:52:00; - Device ID: 6526688; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 93,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40355249
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1816/p18167502/s40355249/40355249",
+    "background": "Recording Details: - Patient ID: 18167502; - Recording Date: 2133-11-28 09:17:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 94,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40655328
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1905/p19053252/s40655328/40655328",
+    "background": "Recording Details: - Patient ID: 19053252; - Recording Date: 2123-12-17 10:29:00; - Device ID: 6762207; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 95,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43701538
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1911/p19112135/s43701538/43701538",
+    "background": "Recording Details: - Patient ID: 19112135; - Recording Date: 2193-10-04 09:27:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 96,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42116398
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1897/p18970129/s42116398/42116398",
+    "background": "Recording Details: - Patient ID: 18970129; - Recording Date: 2128-06-30 10:28:00; - Device ID: 6602038; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 97,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42210564
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1894/p18940273/s42210564/42210564",
+    "background": "Recording Details: - Patient ID: 18940273; - Recording Date: 2161-01-16 23:53:00; - Device ID: 6610295; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 98,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40061086
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1233/p12330014/s40061086/40061086",
+    "background": "Recording Details: - Patient ID: 12330014; - Recording Date: 2142-10-03 09:09:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 99,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48803591
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1637/p16371723/s48803591/48803591",
+    "background": "Recording Details: - Patient ID: 16371723; - Recording Date: 2137-04-22 14:58:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 100,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45987355
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1668/p16689202/s45987355/45987355",
+    "background": "Recording Details: - Patient ID: 16689202; - Recording Date: 2125-04-03 09:05:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 101,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45507086
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1383/p13835768/s45507086/45507086",
+    "background": "Recording Details: - Patient ID: 13835768; - Recording Date: 2156-07-08 02:46:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 102,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49673426
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1737/p17376334/s49673426/49673426",
+    "background": "Recording Details: - Patient ID: 17376334; - Recording Date: 2167-09-17 02:30:00; - Device ID: 6397099; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 103,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44768362
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1298/p12988934/s44768362/44768362",
+    "background": "Recording Details: - Patient ID: 12988934; - Recording Date: 2119-02-20 18:38:00; - Device ID: 6924724; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 104,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40438467
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1258/p12586902/s40438467/40438467",
+    "background": "Recording Details: - Patient ID: 12586902; - Recording Date: 2165-11-06 21:24:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 105,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47242840
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1892/p18924470/s47242840/47242840",
+    "background": "Recording Details: - Patient ID: 18924470; - Recording Date: 2179-12-17 21:25:00; - Device ID: 6199693; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 106,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48506356
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1989/p19890665/s48506356/48506356",
+    "background": "Recording Details: - Patient ID: 19890665; - Recording Date: 2122-04-17 05:27:00; - Device ID: 6947933; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 107,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42434646
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1186/p11868667/s42434646/42434646",
+    "background": "Recording Details: - Patient ID: 11868667; - Recording Date: 2141-04-19 21:28:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 108,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      47991073
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1388/p13886627/s47991073/47991073",
+    "background": "Recording Details: - Patient ID: 13886627; - Recording Date: 2163-09-18 18:43:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 109,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49059597
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1201/p12017422/s49059597/49059597",
+    "background": "Recording Details: - Patient ID: 12017422; - Recording Date: 2116-07-20 14:10:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 110,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48884573
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1620/p16205158/s48884573/48884573",
+    "background": "Recording Details: - Patient ID: 16205158; - Recording Date: 2139-06-09 14:42:00; - Device ID: 6762207; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 111,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44018041
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1518/p15182584/s44018041/44018041",
+    "background": "Recording Details: - Patient ID: 15182584; - Recording Date: 2138-01-31 12:24:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 112,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44365450
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1283/p12832856/s44365450/44365450",
+    "background": "Recording Details: - Patient ID: 12832856; - Recording Date: 2131-02-22 15:53:00; - Device ID: 6376932; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 113,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42235124
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1495/p14957413/s42235124/42235124",
+    "background": "Recording Details: - Patient ID: 14957413; - Recording Date: 2148-01-09 02:49:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 114,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      45344106
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1620/p16206585/s45344106/45344106",
+    "background": "Recording Details: - Patient ID: 16206585; - Recording Date: 2141-05-16 09:30:00; - Device ID: 6668070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 115,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42709998
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1691/p16915955/s42709998/42709998",
+    "background": "Recording Details: - Patient ID: 16915955; - Recording Date: 2186-06-18 10:30:00; - Device ID: 6161882; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 116,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49451322
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1180/p11809167/s49451322/49451322",
+    "background": "Recording Details: - Patient ID: 11809167; - Recording Date: 2199-07-14 10:40:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 117,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      44286143
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1664/p16643577/s44286143/44286143",
+    "background": "Recording Details: - Patient ID: 16643577; - Recording Date: 2133-09-17 22:51:00; - Device ID: 6848296; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 118,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41708603
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1239/p12395220/s41708603/41708603",
+    "background": "Recording Details: - Patient ID: 12395220; - Recording Date: 2142-03-22 09:56:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 119,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42635171
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1170/p11702791/s42635171/42635171",
+    "background": "Recording Details: - Patient ID: 11702791; - Recording Date: 2160-10-07 15:59:00; - Device ID: 6806320; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 120,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      46373723
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1862/p18625136/s46373723/46373723",
+    "background": "Recording Details: - Patient ID: 18625136; - Recording Date: 2139-01-29 15:05:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 121,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      40761885
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1685/p16856749/s40761885/40761885",
+    "background": "Recording Details: - Patient ID: 16856749; - Recording Date: 2163-05-03 09:01:00; - Device ID: 6863199; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 122,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43336327
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1583/p15833533/s43336327/43336327",
+    "background": "Recording Details: - Patient ID: 15833533; - Recording Date: 2149-01-20 14:00:00; - Device ID: 6037973; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 123,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      46242433
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1019/p10194314/s46242433/46242433",
+    "background": "Recording Details: - Patient ID: 10194314; - Recording Date: 2130-03-31 07:41:00; - Device ID: 6376932; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 124,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43026211
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1425/p14257932/s43026211/43026211",
+    "background": "Recording Details: - Patient ID: 14257932; - Recording Date: 2153-12-10 11:44:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 2,
+    "sample_id": 125,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 3:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48172622
+    ],
+    "attribute": [
+      "3:1 AV block"
+    ],
+    "ecg_path": "p1222/p12227694/s48172622/48172622",
+    "background": "Recording Details: - Patient ID: 12227694; - Recording Date: 2144-01-29 11:51:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 126,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49647693
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1882/p18826797/s49647693/49647693",
+    "background": "Recording Details: - Patient ID: 18826797; - Recording Date: 2169-12-06 09:34:00; - Device ID: 6610295; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 127,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47855125
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1872/p18729731/s47855125/47855125",
+    "background": "Recording Details: - Patient ID: 18729731; - Recording Date: 2177-07-14 23:51:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 128,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41185621
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1329/p13297743/s41185621/41185621",
+    "background": "Recording Details: - Patient ID: 13297743; - Recording Date: 2157-01-02 09:25:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 129,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      45271130
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1798/p17986565/s45271130/45271130",
+    "background": "Recording Details: - Patient ID: 17986565; - Recording Date: 2119-03-04 23:26:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 130,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      48714658
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1722/p17228827/s48714658/48714658",
+    "background": "Recording Details: - Patient ID: 17228827; - Recording Date: 2142-06-25 00:50:00; - Device ID: 6826700; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 131,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      45791085
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1493/p14932825/s45791085/45791085",
+    "background": "Recording Details: - Patient ID: 14932825; - Recording Date: 2170-09-22 13:33:00; - Device ID: 6602038; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 132,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41425764
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1753/p17532555/s41425764/41425764",
+    "background": "Recording Details: - Patient ID: 17532555; - Recording Date: 2129-08-22 14:27:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 133,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      41715431
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1848/p18485280/s41715431/41715431",
+    "background": "Recording Details: - Patient ID: 18485280; - Recording Date: 2177-07-12 07:52:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 134,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44715538
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1681/p16816820/s44715538/44715538",
+    "background": "Recording Details: - Patient ID: 16816820; - Recording Date: 2186-09-14 18:47:00; - Device ID: 6397099; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 135,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      43695728
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1734/p17343380/s43695728/43695728",
+    "background": "Recording Details: - Patient ID: 17343380; - Recording Date: 2198-08-03 11:33:00; - Device ID: 6646794; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 136,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44673552
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1198/p11986199/s44673552/44673552",
+    "background": "Recording Details: - Patient ID: 11986199; - Recording Date: 2179-06-17 16:56:00; - Device ID: 6913802; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 137,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      45668444
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1369/p13690559/s45668444/45668444",
+    "background": "Recording Details: - Patient ID: 13690559; - Recording Date: 2181-02-23 06:57:00; - Device ID: 6896680; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 138,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47101486
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1682/p16821694/s47101486/47101486",
+    "background": "Recording Details: - Patient ID: 16821694; - Recording Date: 2152-09-16 03:24:00; - Device ID: 6398092; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 139,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      42133659
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1458/p14588565/s42133659/42133659",
+    "background": "Recording Details: - Patient ID: 14588565; - Recording Date: 2117-01-02 10:43:00; - Device ID: 6518437; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 140,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49422374
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1833/p18335908/s49422374/49422374",
+    "background": "Recording Details: - Patient ID: 18335908; - Recording Date: 2125-05-13 22:44:00; - Device ID: 6833291; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 141,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      46965182
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1369/p13690559/s46965182/46965182",
+    "background": "Recording Details: - Patient ID: 13690559; - Recording Date: 2180-01-18 09:34:00; - Device ID: 6211065; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 142,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      44682461
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1369/p13690559/s44682461/44682461",
+    "background": "Recording Details: - Patient ID: 13690559; - Recording Date: 2180-10-05 16:05:00; - Device ID: 6868936; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 143,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      49107013
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1030/p10302979/s49107013/49107013",
+    "background": "Recording Details: - Patient ID: 10302979; - Recording Date: 2199-08-14 13:08:00; - Device ID: 6214760; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 144,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47014509
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1192/p11925673/s47014509/47014509",
+    "background": "Recording Details: - Patient ID: 11925673; - Recording Date: 2176-03-15 13:11:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 145,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "yes"
+    ],
+    "ecg_id": [
+      47858916
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1860/p18603030/s47858916/47858916",
+    "background": "Recording Details: - Patient ID: 18603030; - Recording Date: 2195-06-01 07:48:00; - Device ID: 6896680; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 146,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      49534767
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1888/p18883268/s49534767/49534767",
+    "background": "Recording Details: - Patient ID: 18883268; - Recording Date: 2138-06-02 11:03:00; - Device ID: 6786103; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 147,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      41374204
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1756/p17566703/s41374204/41374204",
+    "background": "Recording Details: - Patient ID: 17566703; - Recording Date: 2166-11-19 14:46:00; - Device ID: 6808459; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 148,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      43403457
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1225/p12252687/s43403457/43403457",
+    "background": "Recording Details: - Patient ID: 12252687; - Recording Date: 2119-03-14 09:51:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 149,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      42751410
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1216/p12165269/s42751410/42751410",
+    "background": "Recording Details: - Patient ID: 12165269; - Recording Date: 2160-08-26 15:16:00; - Device ID: 6228095; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 150,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48003794
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1919/p19191061/s48003794/48003794",
+    "background": "Recording Details: - Patient ID: 19191061; - Recording Date: 2185-03-28 16:18:00; - Device ID: 6762207; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 1,
+    "question_id": 3,
+    "sample_id": 151,
+    "question_type": "single-verify",
+    "attribute_type": "scp_code",
+    "question": "Does this ECG show symptoms of 4:1 AV block?",
+    "answer": [
+      "no"
+    ],
+    "ecg_id": [
+      48928811
+    ],
+    "attribute": [
+      "4:1 AV block"
+    ],
+    "ecg_path": "p1080/p10803137/s48928811/48928811",
+    "background": "Recording Details: - Patient ID: 10803137; - Recording Date: 2130-08-13 08:09:00; - Device ID: 6424491; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  }
+]

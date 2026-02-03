@@ -1,0 +1,695 @@
+[
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109904,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      44418529
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1330/p13304059/s44418529/44418529",
+    "background": "Recording Details: - Patient ID: 13304059; - Recording Date: 2123-02-10 21:30:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109905,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      46902933
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1183/p11839107/s46902933/46902933",
+    "background": "Recording Details: - Patient ID: 11839107; - Recording Date: 2157-11-22 09:43:00; - Device ID: 6863199; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109906,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      45511012
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1975/p19757915/s45511012/45511012",
+    "background": "Recording Details: - Patient ID: 19757915; - Recording Date: 2151-06-21 13:07:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109907,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      40745699
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1239/p12394354/s40745699/40745699",
+    "background": "Recording Details: - Patient ID: 12394354; - Recording Date: 2153-08-31 02:37:00; - Device ID: 6966829; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109908,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      42737834
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1510/p15108376/s42737834/42737834",
+    "background": "Recording Details: - Patient ID: 15108376; - Recording Date: 2171-10-27 07:19:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109909,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      41891452
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1933/p19338062/s41891452/41891452",
+    "background": "Recording Details: - Patient ID: 19338062; - Recording Date: 2141-06-16 14:38:00; - Device ID: 6808459; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109910,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      49573990
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1417/p14174955/s49573990/49573990",
+    "background": "Recording Details: - Patient ID: 14174955; - Recording Date: 2187-12-22 10:55:00; - Device ID: 6315641; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109911,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      42831947
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1393/p13932530/s42831947/42831947",
+    "background": "Recording Details: - Patient ID: 13932530; - Recording Date: 2122-02-24 23:16:00; - Device ID: 6072223; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109912,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      41629715
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1834/p18341991/s41629715/41629715",
+    "background": "Recording Details: - Patient ID: 18341991; - Recording Date: 2171-02-27 10:08:00; - Device ID: 6762207; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109913,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      49995371
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1542/p15427474/s49995371/49995371",
+    "background": "Recording Details: - Patient ID: 15427474; - Recording Date: 2140-04-21 11:45:00; - Device ID: 6920139; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109914,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      42328789
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1612/p16127152/s42328789/42328789",
+    "background": "Recording Details: - Patient ID: 16127152; - Recording Date: 2202-07-14 04:01:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109915,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      40094311
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1354/p13546197/s40094311/40094311",
+    "background": "Recording Details: - Patient ID: 13546197; - Recording Date: 2133-04-30 16:46:00; - Device ID: 6332886; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109916,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      49144822
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1354/p13546197/s49144822/49144822",
+    "background": "Recording Details: - Patient ID: 13546197; - Recording Date: 2133-04-30 16:44:00; - Device ID: 6332886; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109917,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      40808450
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1731/p17316896/s40808450/40808450",
+    "background": "Recording Details: - Patient ID: 17316896; - Recording Date: 2160-04-06 02:22:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109918,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      45993625
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1383/p13831416/s45993625/45993625",
+    "background": "Recording Details: - Patient ID: 13831416; - Recording Date: 2152-05-13 15:08:00; - Device ID: 6602038; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109919,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      44795879
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1395/p13956237/s44795879/44795879",
+    "background": "Recording Details: - Patient ID: 13956237; - Recording Date: 2186-08-07 05:00:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109920,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      49721403
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1395/p13956237/s49721403/49721403",
+    "background": "Recording Details: - Patient ID: 13956237; - Recording Date: 2186-04-08 14:29:00; - Device ID: 6896680; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109921,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      40704989
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1517/p15178275/s40704989/40704989",
+    "background": "Recording Details: - Patient ID: 15178275; - Recording Date: 2138-05-12 00:12:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109922,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      46806155
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1485/p14859206/s46806155/46806155",
+    "background": "Recording Details: - Patient ID: 14859206; - Recording Date: 2139-01-26 08:51:00; - Device ID: 6849918; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109923,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      46919767
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1702/p17025899/s46919767/46919767",
+    "background": "Recording Details: - Patient ID: 17025899; - Recording Date: 2135-12-03 15:28:00; - Device ID: 6283529; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109924,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      44682434
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1497/p14974449/s44682434/44682434",
+    "background": "Recording Details: - Patient ID: 14974449; - Recording Date: 2184-04-11 07:13:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109925,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      47316756
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1540/p15409902/s47316756/47316756",
+    "background": "Recording Details: - Patient ID: 15409902; - Recording Date: 2175-10-23 15:26:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109926,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "p duration",
+      "pr interval",
+      "qrs duration",
+      "qt interval"
+    ],
+    "ecg_id": [
+      47982577
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1315/p13151205/s47982577/47982577",
+    "background": "Recording Details: - Patient ID: 13151205; - Recording Date: 2164-06-02 09:28:00; - Device ID: 6376932; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109927,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "pr interval",
+      "rr interval",
+      "p duration",
+      "qt corrected"
+    ],
+    "ecg_id": [
+      48029156
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1718/p17182296/s48029156/48029156",
+    "background": "Recording Details: - Patient ID: 17182296; - Recording Date: 2124-07-19 14:21:00; - Device ID: 6049786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109928,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "pr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      40135895
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1995/p19958251/s40135895/40135895",
+    "background": "Recording Details: - Patient ID: 19958251; - Recording Date: 2178-10-23 07:34:00; - Device ID: 6920139; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "template_id": 42,
+    "question_id": 4043,
+    "sample_id": 109929,
+    "question_type": "single-query",
+    "attribute_type": "numeric_feature",
+    "question": "What numeric features of this ECG fall above the normal range?",
+    "answer": [
+      "qt corrected",
+      "rr interval",
+      "pr interval",
+      "qrs duration"
+    ],
+    "ecg_id": [
+      41121050
+    ],
+    "attribute": [
+      "above the normal range of rr interval",
+      "above the normal range of p duration",
+      "above the normal range of pr interval",
+      "above the normal range of qrs duration",
+      "above the normal range of qt interval",
+      "above the normal range of qt corrected"
+    ],
+    "ecg_path": "p1865/p18656782/s41121050/41121050",
+    "background": "Recording Details: - Patient ID: 18656782; - Recording Date: 2157-06-15 00:07:00; - Device ID: 6108919; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  }
+]

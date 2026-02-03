@@ -1,0 +1,912 @@
+[
+  {
+    "patient_id": 16119128,
+    "ecg_id": 47365353,
+    "report": "Pacer detection suspended due to external noise-REVIEW ADVISED.Sinus rhythm.- first degree A-V block.Marked left axis deviation.RBBB with left anterior fascicular block.Possible old anterior infarct.Abnormal ECG.",
+    "filepath": "p1611/p16119128/s47365353/47365353",
+    "background": "Recording Details: - Patient ID: 16119128; - Recording Date: 2120-03-06 06:41:00; - Device ID: 6932374; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 15328095,
+    "ecg_id": 48763600,
+    "report": "Atrial fibrillation with slow ventricular response with PVC(s).Prolonged QT interval.Incomplete RBBB.Inferior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1532/p15328095/s48763600/48763600",
+    "background": "Recording Details: - Patient ID: 15328095; - Recording Date: 2143-09-24 09:25:00; - Device ID: 6419971; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10785570,
+    "ecg_id": 48034555,
+    "report": "SINUS BRADYCARDIA.ST-T changes in the lateral leads.STRONGLY SUGGESTS MYOCARDIAL INJURY/ISCHEMIA.Summary: ABNORMAL.",
+    "filepath": "p1078/p10785570/s48034555/48034555",
+    "background": "Recording Details: - Patient ID: 10785570; - Recording Date: 2159-01-13 04:10:00; - Device ID: 6155180; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13919082,
+    "ecg_id": 40837719,
+    "report": "Sinus rhythm.Possible inferior infarct - age undetermined.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1391/p13919082/s40837719/40837719",
+    "background": "Recording Details: - Patient ID: 13919082; - Recording Date: 2114-04-08 23:21:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10070614,
+    "ecg_id": 49855900,
+    "report": "SINUS RHYTHM.Extensive ST-T changes.THESE REPRESENT EQUIVOCAL EVIDENCE OF MYOCARDIAL ISCHEMIA.Summary: BORDERLINE ECG.",
+    "filepath": "p1007/p10070614/s49855900/49855900",
+    "background": "Recording Details: - Patient ID: 10070614; - Recording Date: 2161-10-14 07:58:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13575992,
+    "ecg_id": 43197012,
+    "report": "Sinus rhythm..Incomplete LBBB.Possible anterior infarct - age undetermined.Possible left ventricular hypertrophy.Inferior/lateral ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1357/p13575992/s43197012/43197012",
+    "background": "Recording Details: - Patient ID: 13575992; - Recording Date: 2170-05-01 05:32:00; - Device ID: 6906213; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16452009,
+    "ecg_id": 42453982,
+    "report": "Sinus rhythm with borderline 1st degree A-V block.Left axis deviation.Possible anterior infarct - age undetermined.Inferior ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1645/p16452009/s42453982/42453982",
+    "background": "Recording Details: - Patient ID: 16452009; - Recording Date: 2162-06-03 10:39:00; - Device ID: 6359875; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17132450,
+    "ecg_id": 44828332,
+    "report": "Sinus rhythm with PAC(s)..Lateral T wave changes are nonspecific.Low QRS voltages in precordial leads.Borderline ECG.",
+    "filepath": "p1713/p17132450/s44828332/44828332",
+    "background": "Recording Details: - Patient ID: 17132450; - Recording Date: 2148-06-12 15:09:00; - Device ID: 6376932; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11885313,
+    "ecg_id": 42998451,
+    "report": "Sinus tachycardia.Prominent P waves, nondiagnostic.RBBB and LAFB.Nonspecific T abnormalities, lateral leads.",
+    "filepath": "p1188/p11885313/s42998451/42998451",
+    "background": "Recording Details: - Patient ID: 11885313; - Recording Date: 2146-06-01 23:05:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 18965721,
+    "ecg_id": 40150373,
+    "report": "Atrial fibrillation.Right bundle branch block.Lateral T wave changes are nonspecific.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1896/p18965721/s40150373/40150373",
+    "background": "Recording Details: - Patient ID: 18965721; - Recording Date: 2139-02-18 07:56:00; - Device ID: 6211065; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19998350,
+    "ecg_id": 48812972,
+    "report": "Sinus rhythm..LVH with secondary repolarization abnormality.Extensive ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1999/p19998350/s48812972/48812972",
+    "background": "Recording Details: - Patient ID: 19998350; - Recording Date: 2128-02-21 08:48:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11648038,
+    "ecg_id": 48301125,
+    "report": "Sinus rhythm.rSr'(V1) - probable normal variant.Anterior T wave changes are nonspecific.Borderline ECG.",
+    "filepath": "p1164/p11648038/s48301125/48301125",
+    "background": "Recording Details: - Patient ID: 11648038; - Recording Date: 2129-02-20 10:40:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17739877,
+    "ecg_id": 41524474,
+    "report": "Probable atrial fibrillation with rapid ventricular response.- premature ventricular contractions or aberrant ventricular conduction.Abnormal ECG.",
+    "filepath": "p1773/p17739877/s41524474/41524474",
+    "background": "Recording Details: - Patient ID: 17739877; - Recording Date: 2203-07-18 22:34:00; - Device ID: 6932374; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12042044,
+    "ecg_id": 45785154,
+    "report": "Sinus tachycardia with sinus arrhythmia..QRS changes V3/V4 may be due to LVH but cannot rule out anterior infarct.Left ventricular hypertrophy.Inferior/lateral ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1204/p12042044/s45785154/45785154",
+    "background": "Recording Details: - Patient ID: 12042044; - Recording Date: 2117-07-21 16:44:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19423307,
+    "ecg_id": 46260620,
+    "report": "Sinus rhythm.- borderline first degree A-V block.*** report made without knowing patient's sex or age ***.Left ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1942/p19423307/s46260620/46260620",
+    "background": "Recording Details: - Patient ID: 19423307; - Recording Date: 2158-09-18 00:06:00; - Device ID: 6721756; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19095137,
+    "ecg_id": 45806980,
+    "report": "Atrial fibrillation.Left axis deviation.RBBB with left anterior fascicular block.Inferior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1909/p19095137/s45806980/45806980",
+    "background": "Recording Details: - Patient ID: 19095137; - Recording Date: 2132-08-26 08:50:00; - Device ID: 6080878; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10431928,
+    "ecg_id": 40563729,
+    "report": "Atrial fibrillation.Poor R wave progression - probable normal variant.Inferior and anterior ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1043/p10431928/s40563729/40563729",
+    "background": "Recording Details: - Patient ID: 10431928; - Recording Date: 2188-06-16 07:44:00; - Device ID: 6257804; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12817588,
+    "ecg_id": 47924243,
+    "report": "Sinus rhythm with 1st degree A-V block.Left axis deviation.RBBB with left anterior fascicular block.Abnormal ECG.",
+    "filepath": "p1281/p12817588/s47924243/47924243",
+    "background": "Recording Details: - Patient ID: 12817588; - Recording Date: 2183-10-17 17:39:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12355662,
+    "ecg_id": 46537747,
+    "report": "Sinus rhythm..Rightward axis.Ant/septal and lateral T wave changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1235/p12355662/s46537747/46537747",
+    "background": "Recording Details: - Patient ID: 12355662; - Recording Date: 2114-04-07 06:15:00; - Device ID: 6315641; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11278050,
+    "ecg_id": 41860767,
+    "report": "Sinus rhythm..LVH with secondary repolarization abnormality.Inferior/lateral ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1127/p11278050/s41860767/41860767",
+    "background": "Recording Details: - Patient ID: 11278050; - Recording Date: 2159-12-09 02:38:00; - Device ID: 6245150; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16295696,
+    "ecg_id": 44233179,
+    "report": "Sinus rhythm with 1st degree A-V block.Left axis deviation.Anteroseptal infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1629/p16295696/s44233179/44233179",
+    "background": "Recording Details: - Patient ID: 16295696; - Recording Date: 2190-05-07 10:43:00; - Device ID: 6668070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18569484,
+    "ecg_id": 42458382,
+    "report": "Atrial fibrillation with rapid ventricular response with PVCs..Inferior and anterior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1856/p18569484/s42458382/42458382",
+    "background": "Recording Details: - Patient ID: 18569484; - Recording Date: 2161-10-27 05:22:00; - Device ID: 6537058; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17989998,
+    "ecg_id": 45191924,
+    "report": "Sinus rhythm.Prolonged PR interval.Nonspecific IVCD with LAD.LVH with secondary repolarization abnormality.",
+    "filepath": "p1798/p17989998/s45191924/45191924",
+    "background": "Recording Details: - Patient ID: 17989998; - Recording Date: 2174-09-26 11:01:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 16662264,
+    "ecg_id": 43915773,
+    "report": "Sinus rhythm..Indeterminate axis.Possible inferior infarct - age undetermined.Possible anterior infarct - age undetermined.Generalized low QRS voltages.Abnormal ECG.",
+    "filepath": "p1666/p16662264/s43915773/43915773",
+    "background": "Recording Details: - Patient ID: 16662264; - Recording Date: 2139-05-03 10:10:00; - Device ID: 6790237; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12015517,
+    "ecg_id": 41259365,
+    "report": "Sinus arrhythmia.Inferior/lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1201/p12015517/s41259365/41259365",
+    "background": "Recording Details: - Patient ID: 12015517; - Recording Date: 2203-03-16 13:06:00; - Device ID: 6903271; - Bandwidth: 0.005-150 Hz; - Filtering: Baseline filter."
+  },
+  {
+    "patient_id": 15680666,
+    "ecg_id": 45205882,
+    "report": "Sinus bradycardia with 1st degree A-V block.Left axis deviation.RBBB with left anterior fascicular block.Inferior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1568/p15680666/s45205882/45205882",
+    "background": "Recording Details: - Patient ID: 15680666; - Recording Date: 2112-09-11 07:26:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18844853,
+    "ecg_id": 46826967,
+    "report": "Sinus rhythm.Low voltage with right axis deviation.Probable right ventricular hypertrophy.Nonspecific T abnrm, anterolateral leads.",
+    "filepath": "p1884/p18844853/s46826967/46826967",
+    "background": "Recording Details: - Patient ID: 18844853; - Recording Date: 2175-06-16 17:09:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 19476301,
+    "ecg_id": 43118108,
+    "report": "Sinus rhythm.Right ventricular hypertrophy.Extensive ST-T changes may be due to hypertrophy and/or ischemia.Abnormal ECG.",
+    "filepath": "p1947/p19476301/s43118108/43118108",
+    "background": "Recording Details: - Patient ID: 19476301; - Recording Date: 2148-10-17 11:43:00; - Device ID: 6868936; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16839777,
+    "ecg_id": 44382118,
+    "report": "Sinus bradycardia.Left axis deviation.IV conduction defect.Left ventricular hypertrophy.Lateral ST-T changes may be due to hypertrophy and/or ischemia.Abnormal ECG.",
+    "filepath": "p1683/p16839777/s44382118/44382118",
+    "background": "Recording Details: - Patient ID: 16839777; - Recording Date: 2159-01-05 12:41:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17977561,
+    "ecg_id": 43910216,
+    "report": "Sinus rhythm..Possible anterior infarct - age undetermined.Inferior/lateral T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1797/p17977561/s43910216/43910216",
+    "background": "Recording Details: - Patient ID: 17977561; - Recording Date: 2163-04-08 18:55:00; - Device ID: 6243470; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18892589,
+    "ecg_id": 45611997,
+    "report": "Sinus rhythm.LVH with secondary repolarization abnormality.Extensive ST-T changes may be due to hypertrophy and/or ischemia.Abnormal ECG.",
+    "filepath": "p1889/p18892589/s45611997/45611997",
+    "background": "Recording Details: - Patient ID: 18892589; - Recording Date: 2126-02-26 00:10:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16478719,
+    "ecg_id": 48284956,
+    "report": "Atrial fibrillation with rapid ventricular response.- ventricular couplets.Possible anterior infarct - age undetermined.Inferior/lateral ST-T changes may be due to myocardial ischemia.Repolarization changes may be partly due to rhythm.Generalized low QRS voltages.Abnormal ECG.",
+    "filepath": "p1647/p16478719/s48284956/48284956",
+    "background": "Recording Details: - Patient ID: 16478719; - Recording Date: 2173-09-01 14:26:00; - Device ID: 6610578; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 15621011,
+    "ecg_id": 43819251,
+    "report": "Sinus rhythm.Possible left atrial abnormality.Poor R wave progression - probable normal variant.Right ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1562/p15621011/s43819251/43819251",
+    "background": "Recording Details: - Patient ID: 15621011; - Recording Date: 2182-01-23 07:54:00; - Device ID: 6257804; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12315554,
+    "ecg_id": 45577556,
+    "report": "Atrial fibrillation with PVC(s) or aberrant ventricular conduction.Right bundle branch block.Inferior/lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1231/p12315554/s45577556/45577556",
+    "background": "Recording Details: - Patient ID: 12315554; - Recording Date: 2157-10-08 12:08:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 15402986,
+    "ecg_id": 45488460,
+    "report": "Sinus rhythm with 1st degree A-V block.Left anterior fascicular block.Poor R wave progression - cannot rule out anteroseptal infarct.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1540/p15402986/s45488460/45488460",
+    "background": "Recording Details: - Patient ID: 15402986; - Recording Date: 2136-03-29 21:55:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17132597,
+    "ecg_id": 44943529,
+    "report": "Age not entered, assumed to be  50 years old for purpose of ECG interpretation.Sinus tachycardia.LAD, consider left anterior fascicular block.",
+    "filepath": "p1713/p17132597/s44943529/44943529",
+    "background": "Recording Details: - Patient ID: 17132597; - Recording Date: 2121-04-24 00:27:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 17271055,
+    "ecg_id": 48276955,
+    "report": "Atrial fibrillation.rSr'(V1) - probable normal variant.Extensive ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1727/p17271055/s48276955/48276955",
+    "background": "Recording Details: - Patient ID: 17271055; - Recording Date: 2176-09-14 11:28:00; - Device ID: 6049786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16190834,
+    "ecg_id": 42643481,
+    "report": "Sinus tachycardia.Possible left atrial abnormality.Left axis deviation.RBBB with left anterior fascicular block.Abnormal ECG.",
+    "filepath": "p1619/p16190834/s42643481/42643481",
+    "background": "Recording Details: - Patient ID: 16190834; - Recording Date: 2162-09-13 13:57:00; - Device ID: 6049786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17168714,
+    "ecg_id": 43797329,
+    "report": "Atrial pacing..Left axis deviation.RBBB with left anterior fascicular block.Extensive infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1716/p17168714/s43797329/43797329",
+    "background": "Recording Details: - Patient ID: 17168714; - Recording Date: 2146-12-30 11:23:00; - Device ID: 6419971; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11619087,
+    "ecg_id": 40339848,
+    "report": "Sinus rhythm with borderline 1st degree A-V block..Left axis deviation.RBBB with left anterior fascicular block.Anterolateral infarct - age undetermined.Inferior ST-T changes are nonspecific.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1161/p11619087/s40339848/40339848",
+    "background": "Recording Details: - Patient ID: 11619087; - Recording Date: 2128-01-21 00:18:00; - Device ID: 6072223; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11407375,
+    "ecg_id": 45111557,
+    "report": "Sinus tachycardia with PVC(s) with borderline 1st degree A-V block.Borderline ECG.",
+    "filepath": "p1140/p11407375/s45111557/45111557",
+    "background": "Recording Details: - Patient ID: 11407375; - Recording Date: 2196-12-29 23:48:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12134493,
+    "ecg_id": 41669781,
+    "report": "Atrial fibrillation with rapid ventricular response..Inferior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1213/p12134493/s41669781/41669781",
+    "background": "Recording Details: - Patient ID: 12134493; - Recording Date: 2148-06-30 22:27:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18958268,
+    "ecg_id": 47195473,
+    "report": "*** CONSIDER ACUTE ST ELEVATION MI ***.Possible ectopic atrial rhythm.Inferior ST elevation, CONSIDER ACUTE INFARCT.Anteroseptal ST-T changes suggest myocardial injury/ischemia.Abnormal ECG.",
+    "filepath": "p1895/p18958268/s47195473/47195473",
+    "background": "Recording Details: - Patient ID: 18958268; - Recording Date: 2160-07-15 04:34:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17694730,
+    "ecg_id": 47272738,
+    "report": "Sinus bradycardia.Prolonged QT interval.Leftward axis.Inferior T wave changes are nonspecific.Borderline ECG.",
+    "filepath": "p1769/p17694730/s47272738/47272738",
+    "background": "Recording Details: - Patient ID: 17694730; - Recording Date: 2168-03-02 03:40:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16398746,
+    "ecg_id": 48162748,
+    "report": "Sinus rhythm with PVCs..Left ventricular hypertrophy.Lateral T wave changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1639/p16398746/s48162748/48162748",
+    "background": "Recording Details: - Patient ID: 16398746; - Recording Date: 2190-12-18 13:42:00; - Device ID: 6556494; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11569252,
+    "ecg_id": 43283705,
+    "report": "Sinus rhythm..Leftward axis.Poor R wave progression - probable normal variant.Borderline ECG.",
+    "filepath": "p1156/p11569252/s43283705/43283705",
+    "background": "Recording Details: - Patient ID: 11569252; - Recording Date: 2185-12-14 14:33:00; - Device ID: 6573960; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14064237,
+    "ecg_id": 41973615,
+    "report": "Sinus bradycardia.rSr'(V1) - probable normal variant.Anterior T wave changes are nonspecific.Borderline ECG.",
+    "filepath": "p1406/p14064237/s41973615/41973615",
+    "background": "Recording Details: - Patient ID: 14064237; - Recording Date: 2181-02-21 22:26:00; - Device ID: 6245150; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10952380,
+    "ecg_id": 48318459,
+    "report": "Sinus rhythm.*** report made without knowing patient's sex or age ***.Possible left atrial abnormality.Probable old inferior infarct.Consider old anteroseptal infarct.Lateral ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1095/p10952380/s48318459/48318459",
+    "background": "Recording Details: - Patient ID: 10952380; - Recording Date: 2175-03-25 13:45:00; - Device ID: 6932374; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18017363,
+    "ecg_id": 47219504,
+    "report": "Sinus rhythm..Extensive T wave changes are nonspecific.Low QRS voltages in precordial leads.Borderline ECG.",
+    "filepath": "p1801/p18017363/s47219504/47219504",
+    "background": "Recording Details: - Patient ID: 18017363; - Recording Date: 2118-07-19 13:44:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12835453,
+    "ecg_id": 47101313,
+    "report": "Sinus bradycardia.Inferior and anterior T wave changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1283/p12835453/s47101313/47101313",
+    "background": "Recording Details: - Patient ID: 12835453; - Recording Date: 2131-01-12 13:01:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19878468,
+    "ecg_id": 46110363,
+    "report": "Sinus bradycardia with 1st degree A-V block.rSr'(V1) - probable normal variant.Abnormal ECG.",
+    "filepath": "p1987/p19878468/s46110363/46110363",
+    "background": "Recording Details: - Patient ID: 19878468; - Recording Date: 2117-08-16 10:52:00; - Device ID: 6314211; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10630310,
+    "ecg_id": 40841963,
+    "report": "Atrial fibrillation with rapid ventricular response..Possible anterior infarct - age undetermined.Inferior/lateral ST-T changes are nonspecific.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1063/p10630310/s40841963/40841963",
+    "background": "Recording Details: - Patient ID: 10630310; - Recording Date: 2168-10-29 04:19:00; - Device ID: 6806320; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18093343,
+    "ecg_id": 49500423,
+    "report": "Sinus rhythm.Leftward axis.Left ventricular hypertrophy.Lateral T wave changes may be due to hypertrophy and/or ischemia.Abnormal ECG.",
+    "filepath": "p1809/p18093343/s49500423/49500423",
+    "background": "Recording Details: - Patient ID: 18093343; - Recording Date: 2204-12-24 12:45:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17366165,
+    "ecg_id": 41680926,
+    "report": "Sinus rhythm with borderline 1st degree A-V block..Left axis deviation.IV conduction defect.Left ventricular hypertrophy.Extensive ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1736/p17366165/s41680926/41680926",
+    "background": "Recording Details: - Patient ID: 17366165; - Recording Date: 2164-06-02 11:52:00; - Device ID: 6924910; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12625430,
+    "ecg_id": 46420675,
+    "report": "*** CONSIDER ACUTE ST ELEVATION MI ***.Sinus rhythm with 1st degree A-V block.Lateral ST elevation, CONSIDER ACUTE INFARCT.Abnormal ECG.",
+    "filepath": "p1262/p12625430/s46420675/46420675",
+    "background": "Recording Details: - Patient ID: 12625430; - Recording Date: 2176-03-09 09:00:00; - Device ID: 6639500; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10229029,
+    "ecg_id": 44297445,
+    "report": "Atrial fibrillation with rapid ventricular response with PVC(s).Incomplete LBBB.Anterolateral infarct - age undetermined.Inferior ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1022/p10229029/s44297445/44297445",
+    "background": "Recording Details: - Patient ID: 10229029; - Recording Date: 2173-09-03 10:43:00; - Device ID: 6569101; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10154303,
+    "ecg_id": 47796707,
+    "report": "Sinus rhythm.Anterior T wave changes are nonspecific.Low QRS voltages in limb leads.Borderline ECG.",
+    "filepath": "p1015/p10154303/s47796707/47796707",
+    "background": "Recording Details: - Patient ID: 10154303; - Recording Date: 2149-02-10 08:46:00; - Device ID: 6863199; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12593920,
+    "ecg_id": 45499422,
+    "report": "Atrial fibrillation with rapid ventricular response.Poor R wave progression - probable normal variant.Inferior/lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1259/p12593920/s45499422/45499422",
+    "background": "Recording Details: - Patient ID: 12593920; - Recording Date: 2113-06-20 04:53:00; - Device ID: 6975835; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11922120,
+    "ecg_id": 47132502,
+    "report": "Sinus rhythm with PAC(s).Left axis deviation.IV conduction defect.Possible lateral infarct - age undetermined.Left ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1192/p11922120/s47132502/47132502",
+    "background": "Recording Details: - Patient ID: 11922120; - Recording Date: 2189-09-08 12:21:00; - Device ID: 6602038; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13428695,
+    "ecg_id": 46927137,
+    "report": "Possible ectopic atrial rhythm.Prolonged QT interval.Anterolateral T wave changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1342/p13428695/s46927137/46927137",
+    "background": "Recording Details: - Patient ID: 13428695; - Recording Date: 2192-12-06 15:00:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18949570,
+    "ecg_id": 42497742,
+    "report": "Sinus rhythm..Left axis deviation.RBBB with left anterior fascicular block.Inferior/lateral T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1894/p18949570/s42497742/42497742",
+    "background": "Recording Details: - Patient ID: 18949570; - Recording Date: 2162-10-28 18:35:00; - Device ID: 6647046; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 15161606,
+    "ecg_id": 47768465,
+    "report": "Sinus rhythm with borderline 1st degree A-V block..Right bundle branch block.Inferior infarct - age undetermined.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1516/p15161606/s47768465/47768465",
+    "background": "Recording Details: - Patient ID: 15161606; - Recording Date: 2128-09-11 19:35:00; - Device ID: 6419971; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17983533,
+    "ecg_id": 48204008,
+    "report": "Sinus tachycardia with sinus arrhythmia..Possible left atrial abnormality.rSr'(V1) - probable normal variant.Possible anteroseptal infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1798/p17983533/s48204008/48204008",
+    "background": "Recording Details: - Patient ID: 17983533; - Recording Date: 2192-02-11 19:34:00; - Device ID: 6733344; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16378154,
+    "ecg_id": 40312107,
+    "report": "Sinus rhythm.Poor R wave progression - probable normal variant.Low QRS voltages in precordial leads.Borderline ECG.",
+    "filepath": "p1637/p16378154/s40312107/40312107",
+    "background": "Recording Details: - Patient ID: 16378154; - Recording Date: 2153-09-01 13:53:00; - Device ID: 6747504; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13165826,
+    "ecg_id": 41960707,
+    "report": "Sinus tachycardia..RVH with secondary repolarization abnormality.Possible LVH with secondary repolarization abnormality.Extensive ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1316/p13165826/s41960707/41960707",
+    "background": "Recording Details: - Patient ID: 13165826; - Recording Date: 2158-05-30 13:10:00; - Device ID: 6194359; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11941849,
+    "ecg_id": 47940954,
+    "report": "Sinus rhythm.Left axis deviation.IV conduction defect.Possible extensive infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1194/p11941849/s47940954/47940954",
+    "background": "Recording Details: - Patient ID: 11941849; - Recording Date: 2133-06-12 12:38:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19496099,
+    "ecg_id": 43789131,
+    "report": "Sinus rhythm with 1st degree A-V block.Prolonged QT interval.Extensive T wave changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1949/p19496099/s43789131/43789131",
+    "background": "Recording Details: - Patient ID: 19496099; - Recording Date: 2151-02-04 18:34:00; - Device ID: 6154636; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11217443,
+    "ecg_id": 42255647,
+    "report": "Atrial fibrillation with rapid ventricular response..Right bundle branch block.Inferior/lateral ST-T changes are nonspecific.Generalized low QRS voltages.Abnormal ECG.",
+    "filepath": "p1121/p11217443/s42255647/42255647",
+    "background": "Recording Details: - Patient ID: 11217443; - Recording Date: 2176-07-22 17:46:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14208778,
+    "ecg_id": 44542198,
+    "report": "Sinus rhythm.Probable left atrial enlargement.Abnormal R-wave progression, early transition.Left ventricular hypertrophy.",
+    "filepath": "p1420/p14208778/s44542198/44542198",
+    "background": "Recording Details: - Patient ID: 14208778; - Recording Date: 2164-04-13 20:56:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 14347948,
+    "ecg_id": 47772975,
+    "report": "SINUS TACHYCARDIA.Anteroseptal T wave changes.ABNORMAL CHANGES POSSIBLY DUE TO MYOCARDIAL ISCHEMIA.CHANGES MAY ALSO PARTLY BE DUE TO RATE.Summary: ABNORMAL.",
+    "filepath": "p1434/p14347948/s47772975/47772975",
+    "background": "Recording Details: - Patient ID: 14347948; - Recording Date: 2154-08-06 15:16:00; - Device ID: 6155180; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16948106,
+    "ecg_id": 44902391,
+    "report": "Atrial fibrillation with rapid ventricular response with PVC(s)..Inferior/lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1694/p16948106/s44902391/44902391",
+    "background": "Recording Details: - Patient ID: 16948106; - Recording Date: 2156-07-13 08:35:00; - Device ID: 6194359; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14152246,
+    "ecg_id": 44087280,
+    "report": "Sinus rhythm..Extensive ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1415/p14152246/s44087280/44087280",
+    "background": "Recording Details: - Patient ID: 14152246; - Recording Date: 2137-03-09 16:54:00; - Device ID: 6397099; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18357680,
+    "ecg_id": 44324286,
+    "report": "Sinus tachycardia..Possible left atrial abnormality.Extensive ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1835/p18357680/s44324286/44324286",
+    "background": "Recording Details: - Patient ID: 18357680; - Recording Date: 2182-06-26 18:32:00; - Device ID: 6701510; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13473495,
+    "ecg_id": 44848990,
+    "report": "Atrial fibrillation.Leftward axis.Possible septal infarct - age undetermined.Inferior/lateral T wave changes are nonspecific.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1347/p13473495/s44848990/44848990",
+    "background": "Recording Details: - Patient ID: 13473495; - Recording Date: 2142-06-23 03:22:00; - Device ID: 6696140; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17201223,
+    "ecg_id": 46396409,
+    "report": "Sinus rhythm..Possible anterior infarct - age undetermined.Inferior/lateral T wave changes are nonspecific.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1720/p17201223/s46396409/46396409",
+    "background": "Recording Details: - Patient ID: 17201223; - Recording Date: 2157-06-25 10:49:00; - Device ID: 6483826; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10267709,
+    "ecg_id": 44296533,
+    "report": "Sinus rhythm with 1st degree A-V block.Left axis deviation.RBBB with left anterior fascicular block.Lateral T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1026/p10267709/s44296533/44296533",
+    "background": "Recording Details: - Patient ID: 10267709; - Recording Date: 2183-08-14 05:16:00; - Device ID: 6733344; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10363830,
+    "ecg_id": 48450909,
+    "report": "Sinus bradycardia with 1st degree A-V block.Possible left atrial abnormality.Left axis deviation.IV conduction defect.LVH with secondary repolarization abnormality.Lateral ST-T changes may be due to hypertrophy and/or ischemia.Abnormal ECG.",
+    "filepath": "p1036/p10363830/s48450909/48450909",
+    "background": "Recording Details: - Patient ID: 10363830; - Recording Date: 2151-01-12 13:23:00; - Device ID: 6734107; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12378046,
+    "ecg_id": 49033337,
+    "report": "Sinus rhythm with PVCs.Possible left anterior fascicular block.Left ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1237/p12378046/s49033337/49033337",
+    "background": "Recording Details: - Patient ID: 12378046; - Recording Date: 2120-05-17 17:50:00; - Device ID: 6108919; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14187451,
+    "ecg_id": 42403016,
+    "report": "Sinus rhythm.Inferior/lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1418/p14187451/s42403016/42403016",
+    "background": "Recording Details: - Patient ID: 14187451; - Recording Date: 2156-07-11 17:22:00; - Device ID: 6097533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10391615,
+    "ecg_id": 42836769,
+    "report": "Sinus rhythm with 1st degree A-V block.Consider left atrial abnormality.Rightward axis.IV conduction defect.Lateral infarct - age undetermined.Anteroseptal infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1039/p10391615/s42836769/42836769",
+    "background": "Recording Details: - Patient ID: 10391615; - Recording Date: 2113-07-29 07:44:00; - Device ID: 6924910; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10415973,
+    "ecg_id": 45246262,
+    "report": "Age not entered, assumed to be  50 years old for purpose of ECG interpretation.Sinus rhythm.RBBB and LAFB.",
+    "filepath": "p1041/p10415973/s45246262/45246262",
+    "background": "Recording Details: - Patient ID: 10415973; - Recording Date: 2153-09-28 03:07:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 15123588,
+    "ecg_id": 42236151,
+    "report": "Sinus bradycardia with borderline 1st degree A-V block.Prolonged QT interval.Borderline ECG.",
+    "filepath": "p1512/p15123588/s42236151/42236151",
+    "background": "Recording Details: - Patient ID: 15123588; - Recording Date: 2154-09-12 08:15:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16722520,
+    "ecg_id": 40087676,
+    "report": "Demand pacing.Leftward axis.Anteroseptal infarct - age undetermined.Inferior/lateral ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1672/p16722520/s40087676/40087676",
+    "background": "Recording Details: - Patient ID: 16722520; - Recording Date: 2172-06-08 11:16:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12448098,
+    "ecg_id": 42624214,
+    "report": "Sinus bradycardia.Cannot rule out septal infarct - age undetermined.Possible LVH with secondary repolarization abnormality.Inferior/lateral ST-T changes may be due to hypertrophy and/or ischemia.Abnormal ECG.",
+    "filepath": "p1244/p12448098/s42624214/42624214",
+    "background": "Recording Details: - Patient ID: 12448098; - Recording Date: 2174-09-04 18:45:00; - Device ID: 6398092; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18604517,
+    "ecg_id": 40821936,
+    "report": "Demand pacing.Lead(s) unsuitable for analysis: II III aVR aVL aVF V3 V4.Pacemaker rhythm - no further analysis.Abnormal ECG.",
+    "filepath": "p1860/p18604517/s40821936/40821936",
+    "background": "Recording Details: - Patient ID: 18604517; - Recording Date: 2160-01-13 17:11:00; - Device ID: 6555070; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13642689,
+    "ecg_id": 42599177,
+    "report": "Age not entered, assumed to be  50 years old for purpose of ECG interpretation.Sinus tachycardia.Ventricular premature complex.Incomplete right bundle branch block.",
+    "filepath": "p1364/p13642689/s42599177/42599177",
+    "background": "Recording Details: - Patient ID: 13642689; - Recording Date: 2172-10-29 21:24:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 13854372,
+    "ecg_id": 44530136,
+    "report": "Sinus rhythm with PAC(s).Possible left anterior fascicular block.Possible anterior infarct - age undetermined.Lateral T wave changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1385/p13854372/s44530136/44530136",
+    "background": "Recording Details: - Patient ID: 13854372; - Recording Date: 2142-08-23 15:50:00; - Device ID: 6848296; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19784206,
+    "ecg_id": 40441254,
+    "report": "Sinus rhythm with borderline 1st degree A-V block.IV conduction defect.Poor R wave progression - probable normal variant.Lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1978/p19784206/s40441254/40441254",
+    "background": "Recording Details: - Patient ID: 19784206; - Recording Date: 2128-07-22 11:22:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14719866,
+    "ecg_id": 47112555,
+    "report": "Atrial fibrillation with PVCs..rSr'(V1) - probable normal variant.Poor R wave progression - probable normal variant.Abnormal ECG.",
+    "filepath": "p1471/p14719866/s47112555/47112555",
+    "background": "Recording Details: - Patient ID: 14719866; - Recording Date: 2178-05-07 15:54:00; - Device ID: 6108919; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13592605,
+    "ecg_id": 43735773,
+    "report": "Atrial fibrillation.Poor R wave progression - probable normal variant.Inferior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1359/p13592605/s43735773/43735773",
+    "background": "Recording Details: - Patient ID: 13592605; - Recording Date: 2139-05-23 07:35:00; - Device ID: 6589359; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14406047,
+    "ecg_id": 42326300,
+    "report": "Regular supraventricular rhythm.Left axis deviation.RBBB with left anterior fascicular block.Extensive infarct - age undetermined.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1440/p14406047/s42326300/42326300",
+    "background": "Recording Details: - Patient ID: 14406047; - Recording Date: 2112-08-16 15:41:00; - Device ID: 6214760; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13588348,
+    "ecg_id": 43845023,
+    "report": "Sinus rhythm with 1st degree A-V block..Inferior/lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1358/p13588348/s43845023/43845023",
+    "background": "Recording Details: - Patient ID: 13588348; - Recording Date: 2137-08-21 02:00:00; - Device ID: 6245150; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12020530,
+    "ecg_id": 44350573,
+    "report": "Sinus rhythm.Left axis deviation.Poor R wave progression - probable normal variant.Septal and lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1202/p12020530/s44350573/44350573",
+    "background": "Recording Details: - Patient ID: 12020530; - Recording Date: 2135-11-20 10:34:00; - Device ID: 6464533; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10872600,
+    "ecg_id": 49608944,
+    "report": "Sinus rhythm..Possible anterior infarct - age undetermined.Inferior T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1087/p10872600/s49608944/49608944",
+    "background": "Recording Details: - Patient ID: 10872600; - Recording Date: 2132-10-15 08:39:00; - Device ID: 6483826; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13827700,
+    "ecg_id": 49692434,
+    "report": "Atrial fibrillation with rapid ventricular response.- premature ventricular contractions.LVH with secondary ST-T changes.Abnormal ECG.",
+    "filepath": "p1382/p13827700/s49692434/49692434",
+    "background": "Recording Details: - Patient ID: 13827700; - Recording Date: 2168-02-02 10:00:00; - Device ID: 6740668; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18207287,
+    "ecg_id": 46697739,
+    "report": "Sinus tachycardia with PAC(s)..Short PR interval.Possible inferior infarct - age undetermined.QRS changes V3/V4 may be due to LVH but cannot rule out anterior infarct.Lateral ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1820/p18207287/s46697739/46697739",
+    "background": "Recording Details: - Patient ID: 18207287; - Recording Date: 2192-09-01 21:53:00; - Device ID: 6966829; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14574530,
+    "ecg_id": 48040479,
+    "report": "Atrial fibrillation with slow ventricular response.Inferior and ant/septal T wave changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1457/p14574530/s48040479/48040479",
+    "background": "Recording Details: - Patient ID: 14574530; - Recording Date: 2125-10-20 13:35:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17074525,
+    "ecg_id": 41343365,
+    "report": "--- Warning: Data quality may affect interpretation ---.Atrial fibrillation with uncontrolled ventricular response..Left axis deviation.Inferior infarct - age undetermined.Lateral ST-T changes may be due to myocardial ischemia.Generalized low QRS voltages.Abnormal ECG.",
+    "filepath": "p1707/p17074525/s41343365/41343365",
+    "background": "Recording Details: - Patient ID: 17074525; - Recording Date: 2157-07-09 01:23:00; - Device ID: 6228095; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18940273,
+    "ecg_id": 48286795,
+    "report": "Atrial fibrillation with rapid ventricular response.Possible anteroseptal infarct - age undetermined.Lateral ST-T changes may be due to myocardial ischemia.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1894/p18940273/s48286795/48286795",
+    "background": "Recording Details: - Patient ID: 18940273; - Recording Date: 2159-02-20 00:36:00; - Device ID: 6235200; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18117357,
+    "ecg_id": 42689280,
+    "report": "Probable atrial fibrillation with rapid ventricular response with PVC(s)..Leftward axis.Possible anterior infarct - age undetermined.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1811/p18117357/s42689280/42689280",
+    "background": "Recording Details: - Patient ID: 18117357; - Recording Date: 2116-09-16 12:13:00; - Device ID: 6589359; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11441946,
+    "ecg_id": 40027182,
+    "report": "Sinus bradycardia.Possible inferior infarct - age undetermined.Lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1144/p11441946/s40027182/40027182",
+    "background": "Recording Details: - Patient ID: 11441946; - Recording Date: 2205-03-27 10:03:00; - Device ID: 6913802; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14728145,
+    "ecg_id": 41488073,
+    "report": "Sinus rhythm.Possible anterior infarct - age undetermined.Lateral ST changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1472/p14728145/s41488073/41488073",
+    "background": "Recording Details: - Patient ID: 14728145; - Recording Date: 2115-09-12 12:14:00; - Device ID: 6863199; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13457022,
+    "ecg_id": 44286653,
+    "report": "Sinus rhythm.IVCD, consider atypical RBBB.LVH with IVCD and secondary repol abnrm.",
+    "filepath": "p1345/p13457022/s44286653/44286653",
+    "background": "Recording Details: - Patient ID: 13457022; - Recording Date: 2179-10-11 10:15:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 15570338,
+    "ecg_id": 48646252,
+    "report": "Sinus rhythm.Rightward axis.rSr'(V1) - probable normal variant.Septal T wave changes are nonspecific.Borderline ECG.",
+    "filepath": "p1557/p15570338/s48646252/48646252",
+    "background": "Recording Details: - Patient ID: 15570338; - Recording Date: 2167-05-18 14:57:00; - Device ID: 6913802; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12504054,
+    "ecg_id": 44023554,
+    "report": "Atrial fibrillation with PVC(s)..Left axis deviation.IV conduction defect.Extensive infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1250/p12504054/s44023554/44023554",
+    "background": "Recording Details: - Patient ID: 12504054; - Recording Date: 2176-04-15 16:27:00; - Device ID: 6419971; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18362217,
+    "ecg_id": 47892181,
+    "report": "Sinus rhythm.*** report made without knowing patient's sex ***.Poor R wave progression - probable normal variant.Borderline ECG.",
+    "filepath": "p1836/p18362217/s47892181/47892181",
+    "background": "Recording Details: - Patient ID: 18362217; - Recording Date: 2128-08-26 15:58:00; - Device ID: 6833291; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13624342,
+    "ecg_id": 49677914,
+    "report": "Sinus bradycardia.Lateral T wave changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1362/p13624342/s49677914/49677914",
+    "background": "Recording Details: - Patient ID: 13624342; - Recording Date: 2176-05-01 09:12:00; - Device ID: 6717310; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 15929369,
+    "ecg_id": 45810582,
+    "report": "Sinus tachycardia.Abnormal R-wave progression, early transition.LVH with secondary repolarization abnormality.Inferior infarct, acute.",
+    "filepath": "p1592/p15929369/s45810582/45810582",
+    "background": "Recording Details: - Patient ID: 15929369; - Recording Date: 2158-09-20 14:22:00; - Device ID: 6632385; - Bandwidth: 0.0005-150 Hz; - Filtering: <not specified>."
+  },
+  {
+    "patient_id": 18624005,
+    "ecg_id": 40343682,
+    "report": "Sinus arrhythmia with borderline 1st degree A-V block.Extensive ST-T changes are nonspecific.Borderline ECG.",
+    "filepath": "p1862/p18624005/s40343682/40343682",
+    "background": "Recording Details: - Patient ID: 18624005; - Recording Date: 2182-12-09 11:52:00; - Device ID: 6306582; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 11644977,
+    "ecg_id": 40964599,
+    "report": "Possible ectopic atrial tachycardia.rSr'(V1) - probable normal variant.Septal T wave changes are nonspecific.Borderline ECG.",
+    "filepath": "p1164/p11644977/s40964599/40964599",
+    "background": "Recording Details: - Patient ID: 11644977; - Recording Date: 2135-02-06 11:09:00; - Device ID: 6647046; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 10958342,
+    "ecg_id": 41111575,
+    "report": "Sinus rhythm with 1st degree A-V block.rSr'(V1) - probable normal variant.Possible anterior infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1095/p10958342/s41111575/41111575",
+    "background": "Recording Details: - Patient ID: 10958342; - Recording Date: 2154-06-20 10:43:00; - Device ID: 6717310; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17132849,
+    "ecg_id": 44776392,
+    "report": "Atrial fibrillation with rapid ventricular response.Lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1713/p17132849/s44776392/44776392",
+    "background": "Recording Details: - Patient ID: 17132849; - Recording Date: 2156-09-05 10:58:00; - Device ID: 6919786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18418572,
+    "ecg_id": 44533357,
+    "report": "Sinus rhythm with PAC(s).Poor R wave progression - probable normal variant.Low QRS voltages in limb leads.Borderline ECG.",
+    "filepath": "p1841/p18418572/s44533357/44533357",
+    "background": "Recording Details: - Patient ID: 18418572; - Recording Date: 2122-07-11 02:18:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17505260,
+    "ecg_id": 44334215,
+    "report": "Sinus bradycardia with borderline 1st degree A-V block.Prolonged QT interval.Consider left atrial abnormality.rSr'(V1) - probable normal variant.Borderline ECG.",
+    "filepath": "p1750/p17505260/s44334215/44334215",
+    "background": "Recording Details: - Patient ID: 17505260; - Recording Date: 2132-12-01 10:20:00; - Device ID: 6672155; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12936624,
+    "ecg_id": 42267670,
+    "report": "Sinus rhythm.Possible left anterior fascicular block.Left ventricular hypertrophy.Lateral T wave changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1293/p12936624/s42267670/42267670",
+    "background": "Recording Details: - Patient ID: 12936624; - Recording Date: 2186-07-22 16:22:00; - Device ID: 6306582; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12828432,
+    "ecg_id": 44628677,
+    "report": "Sinus tachycardia with sinus arrhythmia.Short PR interval.Anterior T wave changes are nonspecific.Low QRS voltages in limb leads.Borderline ECG.",
+    "filepath": "p1282/p12828432/s44628677/44628677",
+    "background": "Recording Details: - Patient ID: 12828432; - Recording Date: 2162-08-12 20:34:00; - Device ID: 6647046; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14489685,
+    "ecg_id": 49005143,
+    "report": "Sinus rhythm..Left anterior fascicular block.Possible lateral infarct - age undetermined.Abnormal ECG.",
+    "filepath": "p1448/p14489685/s49005143/49005143",
+    "background": "Recording Details: - Patient ID: 14489685; - Recording Date: 2162-05-27 20:17:00; - Device ID: 6896680; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 13431113,
+    "ecg_id": 49022200,
+    "report": "Sinus bradycardia with borderline 1st degree A-V block.Possible left anterior fascicular block.Possible anteroseptal infarct - age undetermined.Inferior/lateral ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1343/p13431113/s49022200/49022200",
+    "background": "Recording Details: - Patient ID: 13431113; - Recording Date: 2149-06-10 11:44:00; - Device ID: 6359875; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 14677276,
+    "ecg_id": 45486626,
+    "report": "Atrial fibrillation with slow ventricular response.Lead(s) unsuitable for analysis: V4.Abnormal ECG.",
+    "filepath": "p1467/p14677276/s45486626/45486626",
+    "background": "Recording Details: - Patient ID: 14677276; - Recording Date: 2163-07-19 15:52:00; - Device ID: 6646794; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19773902,
+    "ecg_id": 45798671,
+    "report": "Sinus rhythm.rSr'(V1) - probable normal variant.Anterior T wave changes are nonspecific.Borderline ECG.",
+    "filepath": "p1977/p19773902/s45798671/45798671",
+    "background": "Recording Details: - Patient ID: 19773902; - Recording Date: 2132-08-08 13:57:00; - Device ID: 6752764; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16823172,
+    "ecg_id": 46653915,
+    "report": "Ectopic atrial rhythm.- premature ventricular contractions.- supraventricular extrasystoles.Poor R wave progression - probable normal variant.Borderline ECG.",
+    "filepath": "p1682/p16823172/s46653915/46653915",
+    "background": "Recording Details: - Patient ID: 16823172; - Recording Date: 2110-11-05 10:47:00; - Device ID: 6518437; - Bandwidth: 0.05-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 17105206,
+    "ecg_id": 43050539,
+    "report": "Atrial fibrillation..rSr'(V1) - probable normal variant.Lateral ST-T changes may be due to myocardial ischemia.Abnormal ECG.",
+    "filepath": "p1710/p17105206/s43050539/43050539",
+    "background": "Recording Details: - Patient ID: 17105206; - Recording Date: 2173-01-05 21:59:00; - Device ID: 6647046; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 15293455,
+    "ecg_id": 40625717,
+    "report": "Sinus rhythm.Inferior T wave changes may be normal for age.Borderline ECG.",
+    "filepath": "p1529/p15293455/s40625717/40625717",
+    "background": "Recording Details: - Patient ID: 15293455; - Recording Date: 2129-12-25 07:38:00; - Device ID: 6049786; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18874374,
+    "ecg_id": 48068264,
+    "report": "Atrial fibrillation with rapid ventricular response..Left ventricular hypertrophy.Ant/septal and lateral ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1887/p18874374/s48068264/48068264",
+    "background": "Recording Details: - Patient ID: 18874374; - Recording Date: 2143-08-30 12:05:00; - Device ID: 6245150; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 16635936,
+    "ecg_id": 44336487,
+    "report": "Sinus rhythm..Prolonged QT interval.LVH with secondary repolarization abnormality.Extensive ST-T changes are probably due to ventricular hypertrophy.Abnormal ECG.",
+    "filepath": "p1663/p16635936/s44336487/44336487",
+    "background": "Recording Details: - Patient ID: 16635936; - Recording Date: 2154-09-29 09:14:00; - Device ID: 6364655; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 12174435,
+    "ecg_id": 42905615,
+    "report": "Sinus tachycardia.Possible right atrial abnormality.Anterolateral ST changes suggest myocardial injury/ischemia.Abnormal ECG.",
+    "filepath": "p1217/p12174435/s42905615/42905615",
+    "background": "Recording Details: - Patient ID: 12174435; - Recording Date: 2179-11-08 08:09:00; - Device ID: 6376932; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19014190,
+    "ecg_id": 47840548,
+    "report": "Atrial fibrillation with slow ventricular response with PVC(s)..Prolonged QT interval.Left anterior fascicular block.Incomplete RBBB.*** ANTERIOR INFARCT - POSSIBLY ACUTE ***.Lateral ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1901/p19014190/s47840548/47840548",
+    "background": "Recording Details: - Patient ID: 19014190; - Recording Date: 2187-05-24 11:08:00; - Device ID: 6161882; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 18310719,
+    "ecg_id": 44100957,
+    "report": "Sinus rhythm with PACs..IV conduction defect.Extensive ST-T changes are nonspecific.Abnormal ECG.",
+    "filepath": "p1831/p18310719/s44100957/44100957",
+    "background": "Recording Details: - Patient ID: 18310719; - Recording Date: 2130-08-11 17:32:00; - Device ID: 6154636; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  },
+  {
+    "patient_id": 19386339,
+    "ecg_id": 42245273,
+    "report": "Sinus tachycardia.Inferior and ant/septal T wave changes are borderline abnormal.Borderline ECG.",
+    "filepath": "p1938/p19386339/s42245273/42245273",
+    "background": "Recording Details: - Patient ID: 19386339; - Recording Date: 2116-12-18 09:30:00; - Device ID: 6903271; - Bandwidth: 0.005-150 Hz; - Filtering: Baseline filter."
+  },
+  {
+    "patient_id": 17571590,
+    "ecg_id": 44315306,
+    "report": "Accelerated idioventricular rhythm..Right bundle branch block.Inferior/lateral ST-T changes are nonspecific.Low QRS voltages in precordial leads.Abnormal ECG.",
+    "filepath": "p1757/p17571590/s44315306/44315306",
+    "background": "Recording Details: - Patient ID: 17571590; - Recording Date: 2140-04-27 12:08:00; - Device ID: 6228095; - Bandwidth: 0.005-150 Hz; - Filtering: 60 Hz notch Baseline filter."
+  }
+]

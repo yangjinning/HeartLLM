@@ -1,0 +1,1395 @@
+[
+  {
+    "patient_id": 17014.0,
+    "ecg_id": 4,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00004_hr",
+    "background": "Patient Information: - Patient ID: 17014; - Age: 24; - Sex: 0; - Height: nan; - Weight: 82; Recording Details: - Recording Date: 1984-11-15 13:44:57; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16193.0,
+    "ecg_id": 7,
+    "report": "left type t sinus rhythm abnormal, probably inferior myocardial damage qt prolongation",
+    "filepath": "records500/00000/00007_hr",
+    "background": "Patient Information: - Patient ID: 16193; - Age: 54; - Sex: 0; - Height: nan; - Weight: 83; Recording Details: - Recording Date: 1984-11-28 13:32:22; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 11116.0,
+    "ecg_id": 19,
+    "report": "sinus rhythm p broadening",
+    "filepath": "records500/00000/00019_hr",
+    "background": "Patient Information: - Patient ID: 11116; - Age: 20; - Sex: 0; - Height: nan; - Weight: 85; Recording Details: - Recording Date: 1985-01-23 11:23:00; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 14340.0,
+    "ecg_id": 29,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00029_hr",
+    "background": "Patient Information: - Patient ID: 14340; - Age: 18; - Sex: 1; - Height: nan; - Weight: 47; Recording Details: - Recording Date: 1985-02-01 14:33:55; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 20527.0,
+    "ecg_id": 33,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00033_hr",
+    "background": "Patient Information: - Patient ID: 20527; - Age: 49; - Sex: 1; - Height: nan; - Weight: 58; Recording Details: - Recording Date: 1985-02-09 10:51:08; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16961.0,
+    "ecg_id": 50,
+    "report": "sinus rhythm p widening left type t abnormal, probably inferior myocardial damage",
+    "filepath": "records500/00000/00050_hr",
+    "background": "Patient Information: - Patient ID: 16961; - Age: 59; - Sex: 1; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1985-05-09 12:01:24; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 14101.0,
+    "ecg_id": 68,
+    "report": "sinus rhythm left type otherwise normal ecg",
+    "filepath": "records500/00000/00068_hr",
+    "background": "Patient Information: - Patient ID: 14101; - Age: 48; - Sex: 1; - Height: nan; - Weight: 92; Recording Details: - Recording Date: 1985-07-25 07:04:29; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 15904.0,
+    "ecg_id": 85,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00085_hr",
+    "background": "Patient Information: - Patient ID: 15904; - Age: 17; - Sex: 0; - Height: nan; - Weight: 62; Recording Details: - Recording Date: 1985-11-09 09:08:50; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 19832.0,
+    "ecg_id": 112,
+    "report": "sinus rhythm left type otherwise normal ecg",
+    "filepath": "records500/00000/00112_hr",
+    "background": "Patient Information: - Patient ID: 19832; - Age: 44; - Sex: 0; - Height: nan; - Weight: 65; Recording Details: - Recording Date: 1986-01-06 11:04:11; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 19832.0,
+    "ecg_id": 122,
+    "report": "sinus arrhythmia left type otherwise normal ecg",
+    "filepath": "records500/00000/00122_hr",
+    "background": "Patient Information: - Patient ID: 19832; - Age: 44; - Sex: 0; - Height: nan; - Weight: 65; Recording Details: - Recording Date: 1986-01-23 09:49:33; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16944.0,
+    "ecg_id": 148,
+    "report": "sinus rhythm difficult-to-determine electric shaft",
+    "filepath": "records500/00000/00148_hr",
+    "background": "Patient Information: - Patient ID: 16944; - Age: 81; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1986-02-26 04:51:21; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 15095.0,
+    "ecg_id": 164,
+    "report": "sinus tachycardia st-t change anterolaterally and inferolaterally as in ischemia or left ventricular load. Edit: LVH 100, ISC, (f, 26), Sokolow 2.6 (ISCAL)",
+    "filepath": "records500/00000/00164_hr",
+    "background": "Patient Information: - Patient ID: 15095; - Age: 26; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1986-03-08 11:07:56; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 9277.0,
+    "ecg_id": 165,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00165_hr",
+    "background": "Patient Information: - Patient ID: 9277; - Age: 21; - Sex: 0; - Height: nan; - Weight: 93; Recording Details: - Recording Date: 1986-03-08 12:42:24; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 15591.0,
+    "ecg_id": 171,
+    "report": "sinus rhythm st-t decrease, as in lateral ischemia or left strain Edit: ISCIL, Sokolow 2.7 (ISCIL 100)",
+    "filepath": "records500/00000/00171_hr",
+    "background": "Patient Information: - Patient ID: 15591; - Age: 62; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1986-03-12 10:50:59; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 20434.0,
+    "ecg_id": 194,
+    "report": "sinus bradycardia indiff type t changes negative in iii, flat v4-v6 normal ecg",
+    "filepath": "records500/00000/00194_hr",
+    "background": "Patient Information: - Patient ID: 20434; - Age: 37; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1986-03-27 08:47:57; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 19208.0,
+    "ecg_id": 201,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00201_hr",
+    "background": "Patient Information: - Patient ID: 19208; - Age: 32; - Sex: 1; - Height: nan; - Weight: 54; Recording Details: - Recording Date: 1986-04-26 11:22:49; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 18690.0,
+    "ecg_id": 211,
+    "report": "sinus rhythm position type normal st & t abnormal, probably posterior infarction chronic possible ventricular hypertrophy lvh probably pathological",
+    "filepath": "records500/00000/00211_hr",
+    "background": "Patient Information: - Patient ID: 18690; - Age: 85; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1986-05-19 10:15:08; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 15432.0,
+    "ecg_id": 230,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00230_hr",
+    "background": "Patient Information: - Patient ID: 15432; - Age: 21; - Sex: 1; - Height: nan; - Weight: 62; Recording Details: - Recording Date: 1986-06-20 10:33:18; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 17862.0,
+    "ecg_id": 239,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00239_hr",
+    "background": "Patient Information: - Patient ID: 17862; - Age: 58; - Sex: 1; - Height: nan; - Weight: 75; Recording Details: - Recording Date: 1986-07-17 13:12:51; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16481.0,
+    "ecg_id": 244,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00244_hr",
+    "background": "Patient Information: - Patient ID: 16481; - Age: 22; - Sex: 0; - Height: nan; - Weight: 69; Recording Details: - Recording Date: 1986-08-01 10:20:29; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 14355.0,
+    "ecg_id": 249,
+    "report": "sinus rhythm location type normal non-specific abnormal t",
+    "filepath": "records500/00000/00249_hr",
+    "background": "Patient Information: - Patient ID: 14355; - Age: 27; - Sex: 1; - Height: nan; - Weight: 54; Recording Details: - Recording Date: 1986-08-20 02:29:15; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 4715.0,
+    "ecg_id": 283,
+    "report": "sinus arrhythmia. normal ecg.",
+    "filepath": "records500/00000/00283_hr",
+    "background": "Patient Information: - Patient ID: 4715; - Age: 45; - Sex: 1; - Height: 166; - Weight: 50; Recording Details: - Recording Date: 1986-09-10 12:06:19; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 7744.0,
+    "ecg_id": 285,
+    "report": "sinus rhythm. left axis deviation. left anterior fascicular block.",
+    "filepath": "records500/00000/00285_hr",
+    "background": "Patient Information: - Patient ID: 7744; - Age: 70; - Sex: 0; - Height: 174; - Weight: 63; Recording Details: - Recording Date: 1986-09-10 13:38:23; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6581.0,
+    "ecg_id": 292,
+    "report": "trace only requested.",
+    "filepath": "records500/00000/00292_hr",
+    "background": "Patient Information: - Patient ID: 6581; - Age: 69; - Sex: 1; - Height: 163; - Weight: 75; Recording Details: - Recording Date: 1986-09-10 18:50:54; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 7614.0,
+    "ecg_id": 296,
+    "report": "sinus rhythm. left ventricular hypertrophy. widespread st segment depression and t wave inversion. this may be due to lv strain or ischaemia.",
+    "filepath": "records500/00000/00296_hr",
+    "background": "Patient Information: - Patient ID: 7614; - Age: 75; - Sex: 1; - Height: 150; - Weight: 55; Recording Details: - Recording Date: 1986-09-11 22:24:51; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2065.0,
+    "ecg_id": 334,
+    "report": "sinus rhythm. no definite pathology.",
+    "filepath": "records500/00000/00334_hr",
+    "background": "Patient Information: - Patient ID: 2065; - Age: 69; - Sex: 1; - Height: 160; - Weight: 62; Recording Details: - Recording Date: 1986-09-17 12:27:51; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 3268.0,
+    "ecg_id": 335,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00335_hr",
+    "background": "Patient Information: - Patient ID: 3268; - Age: 36; - Sex: 0; - Height: 167; - Weight: 93; Recording Details: - Recording Date: 1986-09-17 12:52:38; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 19098.0,
+    "ecg_id": 371,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00371_hr",
+    "background": "Patient Information: - Patient ID: 19098; - Age: 19; - Sex: 0; - Height: nan; - Weight: 81; Recording Details: - Recording Date: 1986-11-22 13:09:20; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16023.0,
+    "ecg_id": 388,
+    "report": "sinus rhythm flat t-waves anterolaterally",
+    "filepath": "records500/00000/00388_hr",
+    "background": "Patient Information: - Patient ID: 16023; - Age: 83; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1986-12-13 11:26:08; - Nurse ID: 0; - Site ID: 0; - Device ID: AT-6 C 5.0."
+  },
+  {
+    "patient_id": 10720.0,
+    "ecg_id": 392,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00392_hr",
+    "background": "Patient Information: - Patient ID: 10720; - Age: 18; - Sex: 1; - Height: nan; - Weight: 49; Recording Details: - Recording Date: 1986-12-21 12:50:54; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 12491.0,
+    "ecg_id": 402,
+    "report": "sinus arrhythmia otherwise normal ecg",
+    "filepath": "records500/00000/00402_hr",
+    "background": "Patient Information: - Patient ID: 12491; - Age: 22; - Sex: 0; - Height: nan; - Weight: 74; Recording Details: - Recording Date: 1987-01-22 12:22:56; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 7393.0,
+    "ecg_id": 407,
+    "report": "sinus rhythm. low limb lead voltage. no definite pathology.",
+    "filepath": "records500/00000/00407_hr",
+    "background": "Patient Information: - Patient ID: 7393; - Age: 51; - Sex: 0; - Height: 165; - Weight: 57; Recording Details: - Recording Date: 1987-01-28 09:08:24; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4938.0,
+    "ecg_id": 417,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00417_hr",
+    "background": "Patient Information: - Patient ID: 4938; - Age: 75; - Sex: 1; - Height: 165; - Weight: 60; Recording Details: - Recording Date: 1987-01-29 16:51:21; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4206.0,
+    "ecg_id": 418,
+    "report": "sinus rhythm. tiny r wave in v2, old anteroseptal infarct cannot be excluded. otherwise normal ecg.",
+    "filepath": "records500/00000/00418_hr",
+    "background": "Patient Information: - Patient ID: 4206; - Age: 69; - Sex: 0; - Height: 170; - Weight: 67; Recording Details: - Recording Date: 1987-01-29 17:13:09; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 19672.0,
+    "ecg_id": 434,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00434_hr",
+    "background": "Patient Information: - Patient ID: 19672; - Age: 20; - Sex: 0; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1987-02-07 10:04:33; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 2706.0,
+    "ecg_id": 440,
+    "report": "sinus arrhythmia. normal ecg.",
+    "filepath": "records500/00000/00440_hr",
+    "background": "Patient Information: - Patient ID: 2706; - Age: 58; - Sex: 1; - Height: 158; - Weight: 98; Recording Details: - Recording Date: 1987-02-11 09:33:02; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 19497.0,
+    "ecg_id": 450,
+    "report": "sinus rhythm Ã³Â¿ Ã³Â¬ st-t sÃÃ³Â¬ning, sÃsom vid Ã³Â½ Ã³Â½ inferior ischemia elleÃ³Â¬vÃnster load Ã³ Â© Ã³Â¬ Ã³Â½ Ã³Â½ Ã³Â¬ Ã³ Â© Ã³Â¿",
+    "filepath": "records500/00000/00450_hr",
+    "background": "Patient Information: - Patient ID: 19497; - Age: 68; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-02-21 07:36:43; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 13110.0,
+    "ecg_id": 452,
+    "report": "ventricular extrasystole (s) atrial fibrillation / flutter left elbow non-specific incomplete limb block left ventricular hypertrophy",
+    "filepath": "records500/00000/00452_hr",
+    "background": "Patient Information: - Patient ID: 13110; - Age: 78; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-02-21 13:54:21; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 9378.0,
+    "ecg_id": 469,
+    "report": "sinus rhythm left electric shaft non-specific t-change",
+    "filepath": "records500/00000/00469_hr",
+    "background": "Patient Information: - Patient ID: 9378; - Age: 80; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-02-26 08:31:16; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 2951.0,
+    "ecg_id": 471,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00471_hr",
+    "background": "Patient Information: - Patient ID: 2951; - Age: 60; - Sex: 0; - Height: 163; - Weight: 56; Recording Details: - Recording Date: 1987-02-26 12:19:02; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2398.0,
+    "ecg_id": 473,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00473_hr",
+    "background": "Patient Information: - Patient ID: 2398; - Age: 58; - Sex: 0; - Height: 176; - Weight: 70; Recording Details: - Recording Date: 1987-02-26 13:16:13; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4545.0,
+    "ecg_id": 475,
+    "report": "sinus rhythm. normal ECG Edit: NORM 100, diffuse T-wave changes (flat, uplifts)",
+    "filepath": "records500/00000/00475_hr",
+    "background": "Patient Information: - Patient ID: 4545; - Age: 67; - Sex: 0; - Height: 170; - Weight: 71; Recording Details: - Recording Date: 1987-02-26 20:55:11; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 17234.0,
+    "ecg_id": 521,
+    "report": "sinus rhythm nonspecific st-t Change (elevation) otherwise normal ECG",
+    "filepath": "records500/00000/00521_hr",
+    "background": "Patient Information: - Patient ID: 17234; - Age: 26; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-07 06:22:05; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 19497.0,
+    "ecg_id": 522,
+    "report": "sinus rhythm a-v blocks in non-specific st-change non-specific t-change",
+    "filepath": "records500/00000/00522_hr",
+    "background": "Patient Information: - Patient ID: 19497; - Age: 68; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-07 06:42:00; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 19497.0,
+    "ecg_id": 525,
+    "report": "sinus rhythm st-t decrease, as in anterolateral ischemia or left load inferolateral ischemia or left load",
+    "filepath": "records500/00000/00525_hr",
+    "background": "Patient Information: - Patient ID: 19497; - Age: 68; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-07 13:06:26; - Nurse ID: nan; - Site ID: 3; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 15828.0,
+    "ecg_id": 527,
+    "report": "sinus rhythm deviating qrs (t) course inferior myocardial injury should be considered qt prolongation",
+    "filepath": "records500/00000/00527_hr",
+    "background": "Patient Information: - Patient ID: 15828; - Age: 61; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-08 07:20:19; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 20068.0,
+    "ecg_id": 534,
+    "report": "sinus arrhythmia Moderate amplitude chalk. for left ventricular hypertrophy st-t decrease, as in anterolateral ischemia or left load t-change, as in anterior myocardial infarction inferolateral myocardial infarction",
+    "filepath": "records500/00000/00534_hr",
+    "background": "Patient Information: - Patient ID: 20068; - Age: 80; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-10 06:47:45; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 9027.0,
+    "ecg_id": 550,
+    "report": "sinus tachycardia abnormal qrs (t) course high lateral infarction should be considered",
+    "filepath": "records500/00000/00550_hr",
+    "background": "Patient Information: - Patient ID: 9027; - Age: 39; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-19 08:21:32; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 15180.0,
+    "ecg_id": 554,
+    "report": "sinus rhythm hypertrophy of the left atrium deviating qrs (t) course inferior myocardial injury should be considered st-t decrease, such as in high lateral ischemia or left strain",
+    "filepath": "records500/00000/00554_hr",
+    "background": "Patient Information: - Patient ID: 15180; - Age: 64; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-19 12:57:06; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 20075.0,
+    "ecg_id": 555,
+    "report": "sinus rhythm ventricular extra stroke of-block in",
+    "filepath": "records500/00000/00555_hr",
+    "background": "Patient Information: - Patient ID: 20075; - Age: 65; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-03-19 13:02:38; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 8741.0,
+    "ecg_id": 580,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00580_hr",
+    "background": "Patient Information: - Patient ID: 8741; - Age: 16; - Sex: 0; - Height: nan; - Weight: 61; Recording Details: - Recording Date: 1987-03-28 14:10:40; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 18005.0,
+    "ecg_id": 583,
+    "report": "sinus rhythm nonspecific abnormal t",
+    "filepath": "records500/00000/00583_hr",
+    "background": "Patient Information: - Patient ID: 18005; - Age: 42; - Sex: 1; - Height: nan; - Weight: 55; Recording Details: - Recording Date: 1987-04-03 08:02:03; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 11694.0,
+    "ecg_id": 587,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00587_hr",
+    "background": "Patient Information: - Patient ID: 11694; - Age: 48; - Sex: 1; - Height: nan; - Weight: 74; Recording Details: - Recording Date: 1987-04-06 08:39:27; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 8774.0,
+    "ecg_id": 589,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/00000/00589_hr",
+    "background": "Patient Information: - Patient ID: 8774; - Age: 40; - Sex: 1; - Height: nan; - Weight: 67; Recording Details: - Recording Date: 1987-04-09 10:30:05; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 4261.0,
+    "ecg_id": 601,
+    "report": "sinus rhythm. q waves in ii, iii, avf consistent with old inferior    myocardial infarction. non-specific t wave flattening in i, avl, v6.",
+    "filepath": "records500/00000/00601_hr",
+    "background": "Patient Information: - Patient ID: 4261; - Age: 77; - Sex: 1; - Height: 168; - Weight: 58; Recording Details: - Recording Date: 1987-04-11 15:59:13; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6056.0,
+    "ecg_id": 616,
+    "report": "sinus rhythm. possible left atrial enlargement. minor non-specific t wave flattening in v5,6.",
+    "filepath": "records500/00000/00616_hr",
+    "background": "Patient Information: - Patient ID: 6056; - Age: 75; - Sex: 0; - Height: 170; - Weight: 85; Recording Details: - Recording Date: 1987-04-15 11:54:33; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 1829.0,
+    "ecg_id": 639,
+    "report": "sinus rhythm. non-specific t wave flattening in i, v2,3,4.",
+    "filepath": "records500/00000/00639_hr",
+    "background": "Patient Information: - Patient ID: 1829; - Age: 63; - Sex: 0; - Height: 175; - Weight: 83; Recording Details: - Recording Date: 1987-04-18 10:41:49; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 7613.0,
+    "ecg_id": 643,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00643_hr",
+    "background": "Patient Information: - Patient ID: 7613; - Age: 77; - Sex: 1; - Height: 152; - Weight: 51; Recording Details: - Recording Date: 1987-04-18 19:10:06; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 520.0,
+    "ecg_id": 646,
+    "report": "premature atrial contraction(s). sinus rhythm. left axis deviation. left anterior fascicular block. qs complexes in v2 and tiny r waves in v3 consistent    with old anteroseptal myocardial infarction. non-specific t wave flattening in limb leads and v5,6.",
+    "filepath": "records500/00000/00646_hr",
+    "background": "Patient Information: - Patient ID: 520; - Age: 300; - Sex: 1; - Height: 165; - Weight: 45; Recording Details: - Recording Date: 1987-04-20 11:24:53; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 1918.0,
+    "ecg_id": 679,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00679_hr",
+    "background": "Patient Information: - Patient ID: 1918; - Age: 65; - Sex: 1; - Height: 155; - Weight: 53; Recording Details: - Recording Date: 1987-04-26 14:33:21; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2071.0,
+    "ecg_id": 704,
+    "report": "premature atrial contraction(s). sinus rhythm. left axis deviation. left anterior fascicular block. voltages are high in chest leads suggesting lvh. non-specific intraventricular delay. inferolateral st-t wave changes. these may be due to lv strain or isc",
+    "filepath": "records500/00000/00704_hr",
+    "background": "Patient Information: - Patient ID: 2071; - Age: 79; - Sex: 1; - Height: 150; - Weight: 59; Recording Details: - Recording Date: 1987-04-30 20:25:37; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 6446.0,
+    "ecg_id": 722,
+    "report": "atrial fibrillation with slow ventricular response. left axis deviation. left anterior fascicular block. left ventricular hypertrophy. st segments are depressed and t waves inverted in i,    ii, avl, v4,5,6. this may be due to lv strain or ischaemia. poss",
+    "filepath": "records500/00000/00722_hr",
+    "background": "Patient Information: - Patient ID: 6446; - Age: 71; - Sex: 0; - Height: 188; - Weight: 92; Recording Details: - Recording Date: 1987-05-02 19:03:56; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 520.0,
+    "ecg_id": 727,
+    "report": "premature ventricular contraction(s). sinus rhythm. left axis deviation. tiny r waves in v2,3 suggesting old anteroseptal  infarct. possible old inferior myocardial infarction. non-specific st-t wave changes in lateral leads.",
+    "filepath": "records500/00000/00727_hr",
+    "background": "Patient Information: - Patient ID: 520; - Age: 300; - Sex: 1; - Height: 165; - Weight: 45; Recording Details: - Recording Date: 1987-05-03 12:19:54; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 4618.0,
+    "ecg_id": 754,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00754_hr",
+    "background": "Patient Information: - Patient ID: 4618; - Age: 85; - Sex: 1; - Height: 170; - Weight: 57; Recording Details: - Recording Date: 1987-05-08 11:28:23; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 10756.0,
+    "ecg_id": 788,
+    "report": "sinus rhythm right type right bundle branch block pathological",
+    "filepath": "records500/00000/00788_hr",
+    "background": "Patient Information: - Patient ID: 10756; - Age: 56; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-05-28 13:56:12; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 16221.0,
+    "ecg_id": 791,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/00000/00791_hr",
+    "background": "Patient Information: - Patient ID: 16221; - Age: 32; - Sex: 1; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1987-05-29 10:32:54; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 20029.0,
+    "ecg_id": 795,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/00000/00795_hr",
+    "background": "Patient Information: - Patient ID: 20029; - Age: 60; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-05-31 14:48:37; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 3820.0,
+    "ecg_id": 817,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00817_hr",
+    "background": "Patient Information: - Patient ID: 3820; - Age: 75; - Sex: 0; - Height: 173; - Weight: 87; Recording Details: - Recording Date: 1987-06-22 12:20:56; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 1412.0,
+    "ecg_id": 826,
+    "report": "premature atrial contraction(s). sinus rhythm. left anterior fascicular block. non-specific intraventricular block. q waves in i, avl, v4,5,6 consistent with old  lateral myocardial infarction.",
+    "filepath": "records500/00000/00826_hr",
+    "background": "Patient Information: - Patient ID: 1412; - Age: 86; - Sex: 0; - Height: 170; - Weight: 70; Recording Details: - Recording Date: 1987-06-26 14:23:14; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 2123.0,
+    "ecg_id": 827,
+    "report": "sinus rhythm. q waves in ii, iii, avf. st segments are elevated in ii, iii, avf, v5,6. t waves are inverted in these leads. consistent with inferolateral myocardial infarction which appears recent.",
+    "filepath": "records500/00000/00827_hr",
+    "background": "Patient Information: - Patient ID: 2123; - Age: 59; - Sex: 0; - Height: 173; - Weight: 90; Recording Details: - Recording Date: 1987-06-27 09:29:14; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6035.0,
+    "ecg_id": 829,
+    "report": "atrial fibrillation. premature ventricular contraction(s). q waves in ii, iii, avf. st segments are depressed in i, avl, v3-6. t waves are inverted in i, avl, v6 and flat in ii,    v4,5. consistent with ischaemic heart disease with old inferior myocardial",
+    "filepath": "records500/00000/00829_hr",
+    "background": "Patient Information: - Patient ID: 6035; - Age: 88; - Sex: 0; - Height: 160; - Weight: 70; Recording Details: - Recording Date: 1987-06-27 14:06:15; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4930.0,
+    "ecg_id": 833,
+    "report": "premature ventricular contraction(s). sinus rhythm. left atrial enlargement. left axis deviation. left bundle branch block, this is most commonly due to    ischaemic heart disease.",
+    "filepath": "records500/00000/00833_hr",
+    "background": "Patient Information: - Patient ID: 4930; - Age: 76; - Sex: 1; - Height: 155; - Weight: 46; Recording Details: - Recording Date: 1987-06-28 11:27:14; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6940.0,
+    "ecg_id": 834,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00834_hr",
+    "background": "Patient Information: - Patient ID: 6940; - Age: 68; - Sex: 1; - Height: 168; - Weight: 65; Recording Details: - Recording Date: 1987-06-28 12:00:21; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4719.0,
+    "ecg_id": 837,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00837_hr",
+    "background": "Patient Information: - Patient ID: 4719; - Age: 68; - Sex: 1; - Height: 160; - Weight: 60; Recording Details: - Recording Date: 1987-06-28 13:49:33; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 4319.0,
+    "ecg_id": 854,
+    "report": "trace only requested.",
+    "filepath": "records500/00000/00854_hr",
+    "background": "Patient Information: - Patient ID: 4319; - Age: 53; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-07-01 16:52:20; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 1432.0,
+    "ecg_id": 861,
+    "report": "premature atrial contraction(s), trigeminy. sinus rhythm. minor non-specific st segment depression in i, v5,6.",
+    "filepath": "records500/00000/00861_hr",
+    "background": "Patient Information: - Patient ID: 1432; - Age: 82; - Sex: 1; - Height: 165; - Weight: 75; Recording Details: - Recording Date: 1987-07-02 13:56:42; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 2841.0,
+    "ecg_id": 885,
+    "report": "sinus rhythm. non-specific t wave changes in v2,3,4 of uncertain significance. in view of possible pulmonary embolism suggest repeat tomorrow if clinically indicated.",
+    "filepath": "records500/00000/00885_hr",
+    "background": "Patient Information: - Patient ID: 2841; - Age: 36; - Sex: 1; - Height: 160; - Weight: 70; Recording Details: - Recording Date: 1987-07-05 12:17:41; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 5843.0,
+    "ecg_id": 901,
+    "report": "sinus rhythm. normal ecg. Edit: NORM 100, (NORM 100)",
+    "filepath": "records500/00000/00901_hr",
+    "background": "Patient Information: - Patient ID: 5843; - Age: 67; - Sex: 1; - Height: 163; - Weight: 65; Recording Details: - Recording Date: 1987-07-10 07:17:39; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 8343.0,
+    "ecg_id": 902,
+    "report": "sinus rhythm nonspecific abnormal t",
+    "filepath": "records500/00000/00902_hr",
+    "background": "Patient Information: - Patient ID: 8343; - Age: 20; - Sex: 1; - Height: nan; - Weight: 55; Recording Details: - Recording Date: 1987-07-10 14:03:18; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 20118.0,
+    "ecg_id": 904,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/00000/00904_hr",
+    "background": "Patient Information: - Patient ID: 20118; - Age: 42; - Sex: 0; - Height: nan; - Weight: 86; Recording Details: - Recording Date: 1987-07-12 08:10:32; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 4531.0,
+    "ecg_id": 906,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00906_hr",
+    "background": "Patient Information: - Patient ID: 4531; - Age: 66; - Sex: 0; - Height: 174; - Weight: 76; Recording Details: - Recording Date: 1987-07-12 10:28:00; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 3923.0,
+    "ecg_id": 909,
+    "report": "sinus rhythm. st segments are depressed in i, ii, avl, v5,6. t waves are flat in these leads. this may be due to lv strain or ischaemia.",
+    "filepath": "records500/00000/00909_hr",
+    "background": "Patient Information: - Patient ID: 3923; - Age: 73; - Sex: 0; - Height: 175; - Weight: 73; Recording Details: - Recording Date: 1987-07-13 12:37:03; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 2051.0,
+    "ecg_id": 929,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00929_hr",
+    "background": "Patient Information: - Patient ID: 2051; - Age: 65; - Sex: 1; - Height: 176; - Weight: 65; Recording Details: - Recording Date: 1987-07-16 14:42:29; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 4205.0,
+    "ecg_id": 951,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00951_hr",
+    "background": "Patient Information: - Patient ID: 4205; - Age: 38; - Sex: 0; - Height: 187; - Weight: 70; Recording Details: - Recording Date: 1987-07-19 12:42:34; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 6193.0,
+    "ecg_id": 954,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00954_hr",
+    "background": "Patient Information: - Patient ID: 6193; - Age: 39; - Sex: 0; - Height: 173; - Weight: nan; Recording Details: - Recording Date: 1987-07-20 08:35:58; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 7342.0,
+    "ecg_id": 967,
+    "report": "sinus rhythm. minor non-specific t wave flattening in v2,3.",
+    "filepath": "records500/00000/00967_hr",
+    "background": "Patient Information: - Patient ID: 7342; - Age: 48; - Sex: 1; - Height: 165; - Weight: 74; Recording Details: - Recording Date: 1987-07-23 07:24:39; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 5980.0,
+    "ecg_id": 969,
+    "report": "sinus tachycardia. otherwise normal ecg.",
+    "filepath": "records500/00000/00969_hr",
+    "background": "Patient Information: - Patient ID: 5980; - Age: 63; - Sex: 0; - Height: 170; - Weight: 74; Recording Details: - Recording Date: 1987-07-23 10:17:43; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 763.0,
+    "ecg_id": 971,
+    "report": "sinus rhythm. low limb lead voltage. normal ecg.",
+    "filepath": "records500/00000/00971_hr",
+    "background": "Patient Information: - Patient ID: 763; - Age: 70; - Sex: 1; - Height: nan; - Weight: 158; Recording Details: - Recording Date: 1987-07-23 11:56:50; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 1233.0,
+    "ecg_id": 983,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00983_hr",
+    "background": "Patient Information: - Patient ID: 1233; - Age: 41; - Sex: 1; - Height: 155; - Weight: 61; Recording Details: - Recording Date: 1987-07-25 09:09:38; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 2949.0,
+    "ecg_id": 986,
+    "report": "sinus rhythm. minor non-specific st segment depression in i, ii, v5,6 prolonged qt, this may be due to a drug effect or an    electrolyte disturbance.",
+    "filepath": "records500/00000/00986_hr",
+    "background": "Patient Information: - Patient ID: 2949; - Age: 65; - Sex: 0; - Height: 170; - Weight: 90; Recording Details: - Recording Date: 1987-07-25 14:16:28; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 5930.0,
+    "ecg_id": 988,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00988_hr",
+    "background": "Patient Information: - Patient ID: 5930; - Age: 43; - Sex: 0; - Height: 179; - Weight: 100; Recording Details: - Recording Date: 1987-07-25 14:40:17; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6625.0,
+    "ecg_id": 992,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/00000/00992_hr",
+    "background": "Patient Information: - Patient ID: 6625; - Age: 38; - Sex: 1; - Height: 150; - Weight: 50; Recording Details: - Recording Date: 1987-07-26 10:40:02; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 10568.0,
+    "ecg_id": 1024,
+    "report": "sinus rhythm position type normal incomplete right bundle branch block otherwise normal ecg",
+    "filepath": "records500/01000/01024_hr",
+    "background": "Patient Information: - Patient ID: 10568; - Age: 23; - Sex: 1; - Height: nan; - Weight: 60; Recording Details: - Recording Date: 1987-07-31 23:02:12; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 3999.0,
+    "ecg_id": 1029,
+    "report": "trace only requested.",
+    "filepath": "records500/01000/01029_hr",
+    "background": "Patient Information: - Patient ID: 3999; - Age: 87; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-08-01 15:14:30; - Nurse ID: nan; - Site ID: 39; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2004.0,
+    "ecg_id": 1030,
+    "report": "sinus rhythm. no definite pathology.",
+    "filepath": "records500/01000/01030_hr",
+    "background": "Patient Information: - Patient ID: 2004; - Age: 64; - Sex: 1; - Height: 160; - Weight: 64; Recording Details: - Recording Date: 1987-08-01 17:26:28; - Nurse ID: nan; - Site ID: 32; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 20479.0,
+    "ecg_id": 1037,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/01000/01037_hr",
+    "background": "Patient Information: - Patient ID: 20479; - Age: 29; - Sex: 1; - Height: nan; - Weight: 65; Recording Details: - Recording Date: 1987-08-05 06:52:23; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 1916.0,
+    "ecg_id": 1044,
+    "report": "sinus rhythm. left axis deviation. right bundle branch block. non-specific st-t wave changes.",
+    "filepath": "records500/01000/01044_hr",
+    "background": "Patient Information: - Patient ID: 1916; - Age: 89; - Sex: 0; - Height: 170; - Weight: 52; Recording Details: - Recording Date: 1987-08-06 07:37:47; - Nurse ID: nan; - Site ID: 30; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 3469.0,
+    "ecg_id": 1053,
+    "report": "atrial fibrillation. low limb lead voltage. incomplete right bundle branch block.",
+    "filepath": "records500/01000/01053_hr",
+    "background": "Patient Information: - Patient ID: 3469; - Age: 68; - Sex: 0; - Height: 190; - Weight: 85; Recording Details: - Recording Date: 1987-08-06 20:56:01; - Nurse ID: nan; - Site ID: 12; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 3774.0,
+    "ecg_id": 1059,
+    "report": "trace only requested.",
+    "filepath": "records500/01000/01059_hr",
+    "background": "Patient Information: - Patient ID: 3774; - Age: 61; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-08-07 17:01:25; - Nurse ID: nan; - Site ID: 4; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 1524.0,
+    "ecg_id": 1064,
+    "report": "sinus rhythm. borderline left axis deviation. no definite pathology.",
+    "filepath": "records500/01000/01064_hr",
+    "background": "Patient Information: - Patient ID: 1524; - Age: 54; - Sex: 0; - Height: 172; - Weight: 73; Recording Details: - Recording Date: 1987-08-09 08:12:55; - Nurse ID: nan; - Site ID: 34; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6349.0,
+    "ecg_id": 1070,
+    "report": "sinus rhythm. premature ventricular contraction(s). voltages are high in limb leads suggesting lvh. st segments are depressed in i, avl. t waves are flat in limb leads and inverted in v5,6. findings are likely to be due to ischaemic heart    disease.",
+    "filepath": "records500/01000/01070_hr",
+    "background": "Patient Information: - Patient ID: 6349; - Age: 77; - Sex: 1; - Height: 165; - Weight: 73; Recording Details: - Recording Date: 1987-08-09 13:55:42; - Nurse ID: nan; - Site ID: 34; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 16221.0,
+    "ecg_id": 1099,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/01000/01099_hr",
+    "background": "Patient Information: - Patient ID: 16221; - Age: 32; - Sex: 1; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1987-08-14 10:51:10; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 4267.0,
+    "ecg_id": 1109,
+    "report": "sinus rhythm left anterior fascicular block. widespread t wave inversion query resolving  pericarditis.  ischaemia or myocarditis likely.",
+    "filepath": "records500/01000/01109_hr",
+    "background": "Patient Information: - Patient ID: 4267; - Age: 57; - Sex: 0; - Height: 168; - Weight: 79; Recording Details: - Recording Date: 1987-08-15 09:42:30; - Nurse ID: nan; - Site ID: 4; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 3521.0,
+    "ecg_id": 1110,
+    "report": "sinus rhythm, rate 81 per minute with periods of probable 2:1 sino-atrial block. left anterior fascicular block. no ecg evidence of ischaemia. appearances suggests sinus node dysfunction.",
+    "filepath": "records500/01000/01110_hr",
+    "background": "Patient Information: - Patient ID: 3521; - Age: 75; - Sex: 0; - Height: 170; - Weight: 102; Recording Details: - Recording Date: 1987-08-15 11:18:57; - Nurse ID: nan; - Site ID: 45; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 16261.0,
+    "ecg_id": 1112,
+    "report": "sinus arrhythmia otherwise normal ecg",
+    "filepath": "records500/01000/01112_hr",
+    "background": "Patient Information: - Patient ID: 16261; - Age: 32; - Sex: 1; - Height: nan; - Weight: 98; Recording Details: - Recording Date: 1987-08-17 14:34:30; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 20479.0,
+    "ecg_id": 1115,
+    "report": "sinus arrhythmia position type normal otherwise normal ecg",
+    "filepath": "records500/01000/01115_hr",
+    "background": "Patient Information: - Patient ID: 20479; - Age: 29; - Sex: 1; - Height: nan; - Weight: 65; Recording Details: - Recording Date: 1987-08-26 06:36:12; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 8989.0,
+    "ecg_id": 1124,
+    "report": "resp. sinus arrhythmia is normal ecg",
+    "filepath": "records500/01000/01124_hr",
+    "background": "Patient Information: - Patient ID: 8989; - Age: 39; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1987-09-05 15:42:59; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 2978.0,
+    "ecg_id": 1137,
+    "report": "sinus rhythm. minor non-specific st-t wave changes in v5,6.",
+    "filepath": "records500/01000/01137_hr",
+    "background": "Patient Information: - Patient ID: 2978; - Age: 63; - Sex: 0; - Height: 183; - Weight: 76; Recording Details: - Recording Date: 1987-09-08 14:31:23; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 870.0,
+    "ecg_id": 1148,
+    "report": "sinus rhythm. left axis deviation. left anterior fascicular block.",
+    "filepath": "records500/01000/01148_hr",
+    "background": "Patient Information: - Patient ID: 870; - Age: 55; - Sex: 0; - Height: 178; - Weight: 85; Recording Details: - Recording Date: 1987-09-10 13:39:45; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 1413.0,
+    "ecg_id": 1165,
+    "report": "premature atrial contraction(s). sinus rhythm. otherwise normal ecg.",
+    "filepath": "records500/01000/01165_hr",
+    "background": "Patient Information: - Patient ID: 1413; - Age: 33; - Sex: 0; - Height: 166; - Weight: 70; Recording Details: - Recording Date: 1987-09-12 08:08:49; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 561.0,
+    "ecg_id": 1238,
+    "report": "sinus rhythm. incomplete right bundle branch block. otherwise normal ecg.",
+    "filepath": "records500/01000/01238_hr",
+    "background": "Patient Information: - Patient ID: 561; - Age: 32; - Sex: 1; - Height: 165; - Weight: 82; Recording Details: - Recording Date: 1987-10-03 20:17:00; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 561.0,
+    "ecg_id": 1241,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01241_hr",
+    "background": "Patient Information: - Patient ID: 561; - Age: 32; - Sex: 1; - Height: 165; - Weight: 82; Recording Details: - Recording Date: 1987-10-04 14:39:42; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 14973.0,
+    "ecg_id": 1245,
+    "report": "sinus rhythm left type otherwise normal ecg",
+    "filepath": "records500/01000/01245_hr",
+    "background": "Patient Information: - Patient ID: 14973; - Age: 53; - Sex: 0; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1987-10-16 09:37:06; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 9619.0,
+    "ecg_id": 1250,
+    "report": "sinus rhythm left type otherwise normal ecg",
+    "filepath": "records500/01000/01250_hr",
+    "background": "Patient Information: - Patient ID: 9619; - Age: 50; - Sex: 0; - Height: nan; - Weight: 80; Recording Details: - Recording Date: 1987-10-25 10:47:14; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 11086.0,
+    "ecg_id": 1256,
+    "report": "sinus rhythm nonspecific abnormal t",
+    "filepath": "records500/01000/01256_hr",
+    "background": "Patient Information: - Patient ID: 11086; - Age: 48; - Sex: 0; - Height: nan; - Weight: 94; Recording Details: - Recording Date: 1987-11-07 11:25:51; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16221.0,
+    "ecg_id": 1270,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/01000/01270_hr",
+    "background": "Patient Information: - Patient ID: 16221; - Age: 32; - Sex: 1; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1987-12-06 12:59:00; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 9760.0,
+    "ecg_id": 1282,
+    "report": "sinus arrhythmia otherwise normal ecg",
+    "filepath": "records500/01000/01282_hr",
+    "background": "Patient Information: - Patient ID: 9760; - Age: 18; - Sex: 1; - Height: nan; - Weight: 54; Recording Details: - Recording Date: 1987-12-15 13:09:28; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 3070.0,
+    "ecg_id": 1326,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01326_hr",
+    "background": "Patient Information: - Patient ID: 3070; - Age: 65; - Sex: 0; - Height: 180; - Weight: 96; Recording Details: - Recording Date: 1988-01-29 15:48:17; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 3648.0,
+    "ecg_id": 1339,
+    "report": "trace only requested.",
+    "filepath": "records500/01000/01339_hr",
+    "background": "Patient Information: - Patient ID: 3648; - Age: 77; - Sex: 1; - Height: 164; - Weight: 51; Recording Details: - Recording Date: 1988-01-30 20:05:15; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 20205.0,
+    "ecg_id": 1343,
+    "report": "sinus rhythm qrs(t) abnormal inferior infarction probably old",
+    "filepath": "records500/01000/01343_hr",
+    "background": "Patient Information: - Patient ID: 20205; - Age: 65; - Sex: 0; - Height: nan; - Weight: 90; Recording Details: - Recording Date: 1988-02-01 14:40:53; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 19041.0,
+    "ecg_id": 1354,
+    "report": "sinus rhythm position type normal incomplete right bundle branch block otherwise normal ecg",
+    "filepath": "records500/01000/01354_hr",
+    "background": "Patient Information: - Patient ID: 19041; - Age: 22; - Sex: 0; - Height: nan; - Weight: 68; Recording Details: - Recording Date: 1988-02-10 11:36:23; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 2430.0,
+    "ecg_id": 1355,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01355_hr",
+    "background": "Patient Information: - Patient ID: 2430; - Age: 66; - Sex: 1; - Height: 170; - Weight: 54; Recording Details: - Recording Date: 1988-02-11 07:16:48; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 19563.0,
+    "ecg_id": 1365,
+    "report": "sinus rhythm amplitude criteria for left hypertrophy",
+    "filepath": "records500/01000/01365_hr",
+    "background": "Patient Information: - Patient ID: 19563; - Age: 30; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-02-21 12:00:29; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 7863.0,
+    "ecg_id": 1383,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01383_hr",
+    "background": "Patient Information: - Patient ID: 7863; - Age: 41; - Sex: 0; - Height: 193; - Weight: 96; Recording Details: - Recording Date: 1988-02-26 11:20:31; - Nurse ID: 5; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6386.0,
+    "ecg_id": 1389,
+    "report": "sinus rhythm. low limb lead voltage. no definite pathology. Edit: NORM 100, (NORM 100)",
+    "filepath": "records500/01000/01389_hr",
+    "background": "Patient Information: - Patient ID: 6386; - Age: 71; - Sex: 0; - Height: 178; - Weight: 70; Recording Details: - Recording Date: 1988-02-26 23:32:02; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 7700.0,
+    "ecg_id": 1402,
+    "report": "sinus rhythm. minor non-specific st segment depression in v4,5,6, of doubtful significance.",
+    "filepath": "records500/01000/01402_hr",
+    "background": "Patient Information: - Patient ID: 7700; - Age: 41; - Sex: 1; - Height: 160; - Weight: 80; Recording Details: - Recording Date: 1988-02-28 12:01:52; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6541.0,
+    "ecg_id": 1413,
+    "report": "premature atrial contraction(s). sinus rhythm. otherwise normal ecg.",
+    "filepath": "records500/01000/01413_hr",
+    "background": "Patient Information: - Patient ID: 6541; - Age: 76; - Sex: 1; - Height: 152; - Weight: 50; Recording Details: - Recording Date: 1988-02-29 12:23:31; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 16693.0,
+    "ecg_id": 1416,
+    "report": "sinus rhythm ventricular extra stroke nothing safe pathological",
+    "filepath": "records500/01000/01416_hr",
+    "background": "Patient Information: - Patient ID: 16693; - Age: 66; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-02-29 14:43:52; - Nurse ID: nan; - Site ID: 3; - Device ID: AT-6 C."
+  },
+  {
+    "patient_id": 17179.0,
+    "ecg_id": 1460,
+    "report": "sinus rhythm left type no signs of le slow r progression v1-3 normal ecg",
+    "filepath": "records500/01000/01460_hr",
+    "background": "Patient Information: - Patient ID: 17179; - Age: 36; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-03-18 14:13:06; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 5757.0,
+    "ecg_id": 1474,
+    "report": "sinus rhythm. compared with tracings of 3:3:92 and 23:3:92. it closely resembles the former. old anterior myocardial infarction.",
+    "filepath": "records500/01000/01474_hr",
+    "background": "Patient Information: - Patient ID: 5757; - Age: 74; - Sex: 1; - Height: 155; - Weight: 72; Recording Details: - Recording Date: 1988-03-25 08:59:10; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 10409.0,
+    "ecg_id": 1485,
+    "report": "supraventricular extrasystole (n) sinus rhythmus linkstyp",
+    "filepath": "records500/01000/01485_hr",
+    "background": "Patient Information: - Patient ID: 10409; - Age: 59; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-03-30 12:58:12; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 16876.0,
+    "ecg_id": 1492,
+    "report": "Sinus rhythm Hyperextended left type Transition zone shifted to the left complete right thighbone left anterior hemiblock subcutaneous anterior infarction safe atrial overload left pathological repolarization st elevation Over v3,v4,v5 t neg",
+    "filepath": "records500/01000/01492_hr",
+    "background": "Patient Information: - Patient ID: 16876; - Age: 68; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-04-03 16:35:47; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 4359.0,
+    "ecg_id": 1504,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01504_hr",
+    "background": "Patient Information: - Patient ID: 4359; - Age: 50; - Sex: 1; - Height: 170; - Weight: 80; Recording Details: - Recording Date: 1988-04-09 14:32:17; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 6929.0,
+    "ecg_id": 1518,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01518_hr",
+    "background": "Patient Information: - Patient ID: 6929; - Age: 61; - Sex: 1; - Height: 152; - Weight: 71; Recording Details: - Recording Date: 1988-04-11 11:27:18; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2871.0,
+    "ecg_id": 1523,
+    "report": "sinus bradycardia. otherwise normal ecg. the cause of the bradycardia is not evident.",
+    "filepath": "records500/01000/01523_hr",
+    "background": "Patient Information: - Patient ID: 2871; - Age: 85; - Sex: 1; - Height: 149; - Weight: nan; Recording Details: - Recording Date: 1988-04-12 11:00:30; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 1774.0,
+    "ecg_id": 1527,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01527_hr",
+    "background": "Patient Information: - Patient ID: 1774; - Age: 58; - Sex: 1; - Height: 149; - Weight: 60; Recording Details: - Recording Date: 1988-04-14 13:49:33; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6745.0,
+    "ecg_id": 1529,
+    "report": "sinus rhythm. no definite pathology.",
+    "filepath": "records500/01000/01529_hr",
+    "background": "Patient Information: - Patient ID: 6745; - Age: 45; - Sex: 1; - Height: 153; - Weight: nan; Recording Details: - Recording Date: 1988-04-14 16:54:32; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 7327.0,
+    "ecg_id": 1540,
+    "report": "trace only requested.",
+    "filepath": "records500/01000/01540_hr",
+    "background": "Patient Information: - Patient ID: 7327; - Age: 71; - Sex: 0; - Height: 173; - Weight: 76; Recording Details: - Recording Date: 1988-04-15 14:47:06; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6318.0,
+    "ecg_id": 1546,
+    "report": "sinus rhythm. compared with tracing of 14:4:92, there is now minimal  st segment depression in i, v4,5,6 of doubtful significance.",
+    "filepath": "records500/01000/01546_hr",
+    "background": "Patient Information: - Patient ID: 6318; - Age: 70; - Sex: 1; - Height: 164; - Weight: 66; Recording Details: - Recording Date: 1988-04-16 11:31:57; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 4437.0,
+    "ecg_id": 1550,
+    "report": "sinus rhythm. possible old inferior myocardial infarction. st segments are depressed in i, ii, avl, v4,5,6. t waves are inverted in i, avl and flat in ii, v2-6. findings are likely to be due to ischaemic heart    disease. the unusual progression of r wave",
+    "filepath": "records500/01000/01550_hr",
+    "background": "Patient Information: - Patient ID: 4437; - Age: 84; - Sex: 1; - Height: 162; - Weight: 62; Recording Details: - Recording Date: 1988-04-16 13:13:02; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 14573.0,
+    "ecg_id": 1557,
+    "report": "sinus tachycardia right type otherwise normal ecg",
+    "filepath": "records500/01000/01557_hr",
+    "background": "Patient Information: - Patient ID: 14573; - Age: 52; - Sex: 0; - Height: nan; - Weight: 57; Recording Details: - Recording Date: 1988-04-17 08:48:39; - Nurse ID: 2; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 2281.0,
+    "ecg_id": 1564,
+    "report": "trace only requested.",
+    "filepath": "records500/01000/01564_hr",
+    "background": "Patient Information: - Patient ID: 2281; - Age: 76; - Sex: 0; - Height: 170; - Weight: 70; Recording Details: - Recording Date: 1988-04-17 16:55:21; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 7809.0,
+    "ecg_id": 1577,
+    "report": "sinus rhythm. probable old inferior infarct.",
+    "filepath": "records500/01000/01577_hr",
+    "background": "Patient Information: - Patient ID: 7809; - Age: 77; - Sex: 1; - Height: 152; - Weight: 57; Recording Details: - Recording Date: 1988-04-22 21:42:48; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 3113.0,
+    "ecg_id": 1588,
+    "report": "trace only requested.",
+    "filepath": "records500/01000/01588_hr",
+    "background": "Patient Information: - Patient ID: 3113; - Age: 67; - Sex: 1; - Height: 158; - Weight: 70; Recording Details: - Recording Date: 1988-04-23 19:59:06; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 15876.0,
+    "ecg_id": 1596,
+    "report": "Steep type of wandering pacemaker AV block, 1st degree, intraventr. line disturbance avl st lifting v2",
+    "filepath": "records500/01000/01596_hr",
+    "background": "Patient Information: - Patient ID: 15876; - Age: 53; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-04-24 12:06:45; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 3278.0,
+    "ecg_id": 1610,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01610_hr",
+    "background": "Patient Information: - Patient ID: 3278; - Age: 68; - Sex: 0; - Height: 170; - Weight: 71; Recording Details: - Recording Date: 1988-04-27 11:35:13; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 5233.0,
+    "ecg_id": 1625,
+    "report": "sinus rhythm. right bundle branch block. q waves in ii, iii, avf consistent with old inferior    myocardial infarction.",
+    "filepath": "records500/01000/01625_hr",
+    "background": "Patient Information: - Patient ID: 5233; - Age: 300; - Sex: 1; - Height: 148; - Weight: 32; Recording Details: - Recording Date: 1988-04-29 09:42:54; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 17828.0,
+    "ecg_id": 1628,
+    "report": "sinus tachycardia location type normal otherwise normal ekg Edit: NORM 80, tachycardia, NORM 100",
+    "filepath": "records500/01000/01628_hr",
+    "background": "Patient Information: - Patient ID: 17828; - Age: 57; - Sex: 1; - Height: nan; - Weight: 65; Recording Details: - Recording Date: 1988-04-29 11:33:17; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 3423.0,
+    "ecg_id": 1663,
+    "report": "sinus rhythm. left axis deviation left anterior fascicular block. voltages are high in limb leads suggesting lvh.",
+    "filepath": "records500/01000/01663_hr",
+    "background": "Patient Information: - Patient ID: 3423; - Age: 88; - Sex: 1; - Height: 158; - Weight: 50; Recording Details: - Recording Date: 1988-05-04 13:57:15; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 7632.0,
+    "ecg_id": 1680,
+    "report": "sinus rhythm. prolonged pr interval. st segments are depressed in i, avl. this may be due to lv strain or ischaemia.",
+    "filepath": "records500/01000/01680_hr",
+    "background": "Patient Information: - Patient ID: 7632; - Age: 80; - Sex: 1; - Height: 160; - Weight: 73; Recording Details: - Recording Date: 1988-05-07 19:06:35; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 14103.0,
+    "ecg_id": 1702,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/01000/01702_hr",
+    "background": "Patient Information: - Patient ID: 14103; - Age: 36; - Sex: 0; - Height: nan; - Weight: 90; Recording Details: - Recording Date: 1988-05-15 07:32:24; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 7961.0,
+    "ecg_id": 1713,
+    "report": "sinus rhythm team type normal av-block 1.grades pathologisch",
+    "filepath": "records500/01000/01713_hr",
+    "background": "Patient Information: - Patient ID: 7961; - Age: 62; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-05-22 12:26:56; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 13122.0,
+    "ecg_id": 1722,
+    "report": "irregular rhythm, no p-wave detected hyperexcited left type left anterior hemiblock right bundle branch block bifascicular block qrs(t) abnormal sinus bradycardia supraventr. extrasystoles pathological",
+    "filepath": "records500/01000/01722_hr",
+    "background": "Patient Information: - Patient ID: 13122; - Age: 84; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-05-30 15:45:14; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 21572.0,
+    "ecg_id": 1731,
+    "report": "sinus rhythm left position slowed r-progression part. rsb t changes: flat in v5.6",
+    "filepath": "records500/01000/01731_hr",
+    "background": "Patient Information: - Patient ID: 21572; - Age: 54; - Sex: 0; - Height: 175; - Weight: 92; Recording Details: - Recording Date: 1988-06-08 13:10:06; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 15420.0,
+    "ecg_id": 1740,
+    "report": "sinus rhythm normal ekg",
+    "filepath": "records500/01000/01740_hr",
+    "background": "Patient Information: - Patient ID: 15420; - Age: 31; - Sex: 1; - Height: nan; - Weight: 60; Recording Details: - Recording Date: 1988-06-12 11:58:14; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16221.0,
+    "ecg_id": 1748,
+    "report": "sinus arrhythmia position type normal otherwise normal ecg",
+    "filepath": "records500/01000/01748_hr",
+    "background": "Patient Information: - Patient ID: 16221; - Age: 33; - Sex: 1; - Height: nan; - Weight: 64; Recording Details: - Recording Date: 1988-06-18 14:00:40; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 11534.0,
+    "ecg_id": 1751,
+    "report": "sinus rhythm left type nonspecific abnormal t",
+    "filepath": "records500/01000/01751_hr",
+    "background": "Patient Information: - Patient ID: 11534; - Age: 28; - Sex: 0; - Height: nan; - Weight: 81; Recording Details: - Recording Date: 1988-06-19 14:51:28; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 16264.0,
+    "ecg_id": 1757,
+    "report": "sinus rhythm position type normal qrs(t) abnormal high lateral infarction possible",
+    "filepath": "records500/01000/01757_hr",
+    "background": "Patient Information: - Patient ID: 16264; - Age: 35; - Sex: 1; - Height: nan; - Weight: 56; Recording Details: - Recording Date: 1988-06-21 11:48:17; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 10702.0,
+    "ecg_id": 1760,
+    "report": "sinusrhythmus p-sinistrocardiale lagetyp normal",
+    "filepath": "records500/01000/01760_hr",
+    "background": "Patient Information: - Patient ID: 10702; - Age: 57; - Sex: 0; - Height: nan; - Weight: 83; Recording Details: - Recording Date: 1988-06-23 12:57:02; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 5413.0,
+    "ecg_id": 1778,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01778_hr",
+    "background": "Patient Information: - Patient ID: 5413; - Age: 56; - Sex: 1; - Height: 162; - Weight: 65; Recording Details: - Recording Date: 1988-06-26 11:53:11; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2234.0,
+    "ecg_id": 1788,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01788_hr",
+    "background": "Patient Information: - Patient ID: 2234; - Age: 23; - Sex: 1; - Height: 172; - Weight: 60; Recording Details: - Recording Date: 1988-06-27 11:11:05; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4364.0,
+    "ecg_id": 1794,
+    "report": "sinus rhythm. prolonged pr interval. otherwise normal ecg.",
+    "filepath": "records500/01000/01794_hr",
+    "background": "Patient Information: - Patient ID: 4364; - Age: 59; - Sex: 0; - Height: 180; - Weight: 80; Recording Details: - Recording Date: 1988-06-28 09:47:14; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 6214.0,
+    "ecg_id": 1801,
+    "report": "atrial fibrillation. left axis deviation. left anterior fascicular block. st segments are depressed in i, ii, avl, v4,5,6. t waves are inverted in i, avl and flat in v4,5,6. findings are likely to be due to ischaemic heart  disease and digitalis effect.",
+    "filepath": "records500/01000/01801_hr",
+    "background": "Patient Information: - Patient ID: 6214; - Age: 89; - Sex: 1; - Height: 170; - Weight: 65; Recording Details: - Recording Date: 1988-06-30 09:48:42; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 16600.0,
+    "ecg_id": 1813,
+    "report": "sinus rhythm position type normal incomplete right bundle branch block otherwise normal ecg",
+    "filepath": "records500/01000/01813_hr",
+    "background": "Patient Information: - Patient ID: 16600; - Age: 19; - Sex: 0; - Height: nan; - Weight: 101; Recording Details: - Recording Date: 1988-07-01 10:46:47; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 6288.0,
+    "ecg_id": 1819,
+    "report": "sinus tachycardia. right atrial enlargement. incomplete right bundle branch block. findings are suspicious of chronic respiratory  disease.",
+    "filepath": "records500/01000/01819_hr",
+    "background": "Patient Information: - Patient ID: 6288; - Age: 66; - Sex: 1; - Height: 155; - Weight: 38; Recording Details: - Recording Date: 1988-07-01 18:01:17; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 20283.0,
+    "ecg_id": 1843,
+    "report": "sinus arrhythmia position type normal otherwise normal ecg",
+    "filepath": "records500/01000/01843_hr",
+    "background": "Patient Information: - Patient ID: 20283; - Age: 65; - Sex: 0; - Height: nan; - Weight: 93; Recording Details: - Recording Date: 1988-07-04 10:00:10; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 400.0,
+    "ecg_id": 1845,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01845_hr",
+    "background": "Patient Information: - Patient ID: 400; - Age: 81; - Sex: 1; - Height: 152; - Weight: 51; Recording Details: - Recording Date: 1988-07-04 12:33:22; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 21565.0,
+    "ecg_id": 1859,
+    "report": "sinus rhythm team type normal normales ekg",
+    "filepath": "records500/01000/01859_hr",
+    "background": "Patient Information: - Patient ID: 21565; - Age: 54; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-07-06 12:22:25; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 6471.0,
+    "ecg_id": 1861,
+    "report": "sinus rhythm. prolonged pr interval. otherwise normal ecg.",
+    "filepath": "records500/01000/01861_hr",
+    "background": "Patient Information: - Patient ID: 6471; - Age: 77; - Sex: 1; - Height: 155; - Weight: 57; Recording Details: - Recording Date: 1988-07-07 07:38:51; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 3171.0,
+    "ecg_id": 1868,
+    "report": "sinus rhythm. prolonged pr interval. leftward axis. non-specific t wave flattening in v5,6.",
+    "filepath": "records500/01000/01868_hr",
+    "background": "Patient Information: - Patient ID: 3171; - Age: 83; - Sex: 0; - Height: 175; - Weight: 83; Recording Details: - Recording Date: 1988-07-08 11:23:01; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 5740.0,
+    "ecg_id": 1872,
+    "report": "sinus rhythm. t waves are low or flat throughout. myocardial ischaemia is likely. suggest exclude hypokalaemia.",
+    "filepath": "records500/01000/01872_hr",
+    "background": "Patient Information: - Patient ID: 5740; - Age: 75; - Sex: 1; - Height: 165; - Weight: 67; Recording Details: - Recording Date: 1988-07-09 07:27:27; - Nurse ID: 6; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 2634.0,
+    "ecg_id": 1873,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01873_hr",
+    "background": "Patient Information: - Patient ID: 2634; - Age: 39; - Sex: 0; - Height: 175; - Weight: 98; Recording Details: - Recording Date: 1988-07-09 09:15:16; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 8899.0,
+    "ecg_id": 1888,
+    "report": "sinus rhythm respiratory arrhythmia slt probably normal ecg",
+    "filepath": "records500/01000/01888_hr",
+    "background": "Patient Information: - Patient ID: 8899; - Age: 49; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-07-13 08:40:26; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 4758.0,
+    "ecg_id": 1891,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01891_hr",
+    "background": "Patient Information: - Patient ID: 4758; - Age: 59; - Sex: 0; - Height: 182; - Weight: 87; Recording Details: - Recording Date: 1988-07-14 11:44:37; - Nurse ID: 3; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 4567.0,
+    "ecg_id": 1903,
+    "report": "sinus rhythm. qs complexes in v2 and tiny r waves in v3 consistent    with old anteroseptal myocardial infarction.",
+    "filepath": "records500/01000/01903_hr",
+    "background": "Patient Information: - Patient ID: 4567; - Age: 76; - Sex: 0; - Height: 168; - Weight: 67; Recording Details: - Recording Date: 1988-07-15 13:05:18; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 852.0,
+    "ecg_id": 1910,
+    "report": "sinus bradycardia. otherwise normal ecg. the cause of the bradycardia is not evident.",
+    "filepath": "records500/01000/01910_hr",
+    "background": "Patient Information: - Patient ID: 852; - Age: 81; - Sex: 0; - Height: 178; - Weight: 78; Recording Details: - Recording Date: 1988-07-16 07:58:47; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 8961.0,
+    "ecg_id": 1911,
+    "report": "sinus rhythm left type unspecific abnormal t probably normal",
+    "filepath": "records500/01000/01911_hr",
+    "background": "Patient Information: - Patient ID: 8961; - Age: 300; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-07-16 11:28:43; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 400.0,
+    "ecg_id": 1916,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01916_hr",
+    "background": "Patient Information: - Patient ID: 400; - Age: 81; - Sex: 1; - Height: 152; - Weight: 51; Recording Details: - Recording Date: 1988-07-17 09:37:54; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 444.0,
+    "ecg_id": 1919,
+    "report": "rapid regular supraventricular tachycardia without evident p waves. non-specific st-t wave changes.",
+    "filepath": "records500/01000/01919_hr",
+    "background": "Patient Information: - Patient ID: 444; - Age: 65; - Sex: 0; - Height: 181; - Weight: 77; Recording Details: - Recording Date: 1988-07-17 10:53:52; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 444.0,
+    "ecg_id": 1921,
+    "report": "sinus rhythm. prolonged pr interval. r-s transition zone in v leads displaced to the right. the rhythm was previously supraventricular tachycardia. st-t wave changes have resolved.",
+    "filepath": "records500/01000/01921_hr",
+    "background": "Patient Information: - Patient ID: 444; - Age: 65; - Sex: 0; - Height: 181; - Weight: 77; Recording Details: - Recording Date: 1988-07-17 11:51:45; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 613.0,
+    "ecg_id": 1925,
+    "report": "premature ventricular contraction(s). sinus rhythm. t waves are flat or slightly inverted throughout. myocardial ischaemia is likely. suggest exclude hypokalaemia.",
+    "filepath": "records500/01000/01925_hr",
+    "background": "Patient Information: - Patient ID: 613; - Age: 52; - Sex: 1; - Height: 172; - Weight: 99; Recording Details: - Recording Date: 1988-07-17 17:42:42; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2549.0,
+    "ecg_id": 1927,
+    "report": "sinus rhythm. prolonged pr interval. st segments are depressed in ii, iii, avf, v4,5,6. t waves are low or flat in these leads. this may be due to lv strain or ischaemia.",
+    "filepath": "records500/01000/01927_hr",
+    "background": "Patient Information: - Patient ID: 2549; - Age: 300; - Sex: 1; - Height: nan; - Weight: 69; Recording Details: - Recording Date: 1988-07-17 20:51:09; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 2583.0,
+    "ecg_id": 1930,
+    "report": "sinus tachycardia. widespread st segment depression. non-specific but consistent with myocardial ischaemia and digitalis effect.",
+    "filepath": "records500/01000/01930_hr",
+    "background": "Patient Information: - Patient ID: 2583; - Age: 79; - Sex: 1; - Height: 170; - Weight: 56; Recording Details: - Recording Date: 1988-07-18 09:45:37; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 2535.0,
+    "ecg_id": 1931,
+    "report": "sinus arrhythmia. normal ecg.",
+    "filepath": "records500/01000/01931_hr",
+    "background": "Patient Information: - Patient ID: 2535; - Age: 24; - Sex: 0; - Height: 188; - Weight: 83; Recording Details: - Recording Date: 1988-07-18 10:47:34; - Nurse ID: 7; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 6224.0,
+    "ecg_id": 1948,
+    "report": "premature atrial contraction(s). sinus bradycardia. q waves in ii, iii, avf consistent with old inferior    myocardial infarction. the cause of the bradycardia is not evident.",
+    "filepath": "records500/01000/01948_hr",
+    "background": "Patient Information: - Patient ID: 6224; - Age: 67; - Sex: 1; - Height: 170; - Weight: 73; Recording Details: - Recording Date: 1988-07-21 14:26:10; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 6297.0,
+    "ecg_id": 1949,
+    "report": "sinus rhythm. premature ventricular contraction(s). q waves in ii, iii, avf, old inferior infarct cannot be excluded.",
+    "filepath": "records500/01000/01949_hr",
+    "background": "Patient Information: - Patient ID: 6297; - Age: 58; - Sex: 0; - Height: 183; - Weight: 114; Recording Details: - Recording Date: 1988-07-21 15:10:52; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 613.0,
+    "ecg_id": 1964,
+    "report": "sinus rhythm. low limb lead voltage. t waves are generally low. myocardial ischaemia is likely. suggest exclude hypokalaemia.",
+    "filepath": "records500/01000/01964_hr",
+    "background": "Patient Information: - Patient ID: 613; - Age: 52; - Sex: 1; - Height: 172; - Weight: 99; Recording Details: - Recording Date: 1988-07-23 13:10:31; - Nurse ID: 9; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 1394.0,
+    "ecg_id": 1966,
+    "report": "premature ventricular contraction(s). sinus rhythm. st segments are depressed in i, ii, avl, v4,5,6. this may be due to lv strain or ischaemia.",
+    "filepath": "records500/01000/01966_hr",
+    "background": "Patient Information: - Patient ID: 1394; - Age: 71; - Sex: 1; - Height: 162; - Weight: 54; Recording Details: - Recording Date: 1988-07-23 14:28:20; - Nurse ID: 8; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 11534.0,
+    "ecg_id": 1971,
+    "report": "sinus rhythm left type otherwise normal ecg",
+    "filepath": "records500/01000/01971_hr",
+    "background": "Patient Information: - Patient ID: 11534; - Age: 28; - Sex: 0; - Height: nan; - Weight: 81; Recording Details: - Recording Date: 1988-07-24 00:28:16; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  },
+  {
+    "patient_id": 2323.0,
+    "ecg_id": 1983,
+    "report": "sinus rhythm. minor non-specific t wave flattening throughout. myocardial ischaemia cannot be excluded. suggest exclude hypokalaemia.",
+    "filepath": "records500/01000/01983_hr",
+    "background": "Patient Information: - Patient ID: 2323; - Age: 55; - Sex: 0; - Height: 180; - Weight: 119; Recording Details: - Recording Date: 1988-07-24 17:28:13; - Nurse ID: 1; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 2660.0,
+    "ecg_id": 1988,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/01000/01988_hr",
+    "background": "Patient Information: - Patient ID: 2660; - Age: 20; - Sex: 1; - Height: 175; - Weight: 52; Recording Details: - Recording Date: 1988-07-25 10:23:00; - Nurse ID: 11; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 2196.0,
+    "ecg_id": 2015,
+    "report": "sinus tachycardia. otherwise normal ecg.",
+    "filepath": "records500/02000/02015_hr",
+    "background": "Patient Information: - Patient ID: 2196; - Age: 74; - Sex: 1; - Height: 163; - Weight: 56; Recording Details: - Recording Date: 1988-07-29 14:47:59; - Nurse ID: 4; - Site ID: 1; - Device ID: AT-6     6."
+  },
+  {
+    "patient_id": 5861.0,
+    "ecg_id": 2083,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/02000/02083_hr",
+    "background": "Patient Information: - Patient ID: 5861; - Age: 44; - Sex: 1; - Height: 168; - Weight: 63; Recording Details: - Recording Date: 1988-08-05 13:56:18; - Nurse ID: nan; - Site ID: 27; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 947.0,
+    "ecg_id": 2106,
+    "report": "sinus rhythm. r-s transition in v leads displaced to the left. non-specific t wave flattening in anterior chest leads    v2-5.",
+    "filepath": "records500/02000/02106_hr",
+    "background": "Patient Information: - Patient ID: 947; - Age: 42; - Sex: 0; - Height: 179; - Weight: 94; Recording Details: - Recording Date: 1988-08-07 20:27:25; - Nurse ID: nan; - Site ID: 6; - Device ID: AT-6 C 5.8."
+  },
+  {
+    "patient_id": 7231.0,
+    "ecg_id": 2149,
+    "report": "sinus rhythm t wave inversion in lead iii - probably a normal variant. otherwise normal ecg.",
+    "filepath": "records500/02000/02149_hr",
+    "background": "Patient Information: - Patient ID: 7231; - Age: 34; - Sex: 1; - Height: 175; - Weight: 71; Recording Details: - Recording Date: 1988-08-14 16:10:15; - Nurse ID: nan; - Site ID: 8; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 15956.0,
+    "ecg_id": 2160,
+    "report": "Left position type sinus tachycardia >5/min, atrial es, partly in bigeminy intraventr. conduction disorder in iii,avf st elevation in v1 st depression in i,v2-v5 t neg in avl path. ecg",
+    "filepath": "records500/02000/02160_hr",
+    "background": "Patient Information: - Patient ID: 15956; - Age: 300; - Sex: 0; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-08-20 17:50:32; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 12237.0,
+    "ecg_id": 2177,
+    "report": "Sinus bradycardia probably leads to a normal EKG",
+    "filepath": "records500/02000/02177_hr",
+    "background": "Patient Information: - Patient ID: 12237; - Age: 84; - Sex: 1; - Height: nan; - Weight: nan; Recording Details: - Recording Date: 1988-09-04 19:12:20; - Nurse ID: 1; - Site ID: 2; - Device ID: CS-12."
+  },
+  {
+    "patient_id": 2514.0,
+    "ecg_id": 2183,
+    "report": "sinus rhythm. normal ecg.",
+    "filepath": "records500/02000/02183_hr",
+    "background": "Patient Information: - Patient ID: 2514; - Age: 81; - Sex: 1; - Height: 152; - Weight: 52; Recording Details: - Recording Date: 1988-09-05 13:30:38; - Nurse ID: 10; - Site ID: 1; - Device ID: AT-6 C 5.5."
+  },
+  {
+    "patient_id": 12208.0,
+    "ecg_id": 2192,
+    "report": "sinus bradycardia otherwise normal ecg",
+    "filepath": "records500/02000/02192_hr",
+    "background": "Patient Information: - Patient ID: 12208; - Age: 31; - Sex: 1; - Height: nan; - Weight: 56; Recording Details: - Recording Date: 1988-09-06 08:04:10; - Nurse ID: 0; - Site ID: 0; - Device ID: CS-12   E."
+  }
+]
