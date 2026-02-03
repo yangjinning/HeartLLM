@@ -24,6 +24,7 @@ After downloading the files from Google Drive, replace the existing files in the
 All dataset paths and checkpoint locations are configured via .env files. Please modify these .env files according to your local file system.
 
 File Structure
+```bash
 HeartLLM
 ├── corpora
 │   └── wordnet.zip
@@ -96,9 +97,12 @@ HeartLLM
 ├── requirements.txt
 ├── run_eval.py
 └── run_main.py
+```
 
 ## 4. Training Pipeline
+
 HeartLLM follows a three-stage training pipeline:
+
 Stage 1: ECG Tokenizer Training
 
 Train the discretized ECG tokenizer:
