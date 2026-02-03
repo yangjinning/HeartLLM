@@ -1,6 +1,7 @@
 # HeartLLM: Discretized ECG Tokenization for LLM-Based Diagnostic Reasoning
 
 ## 1. Environment Setup
+Ubuntu 22.04.1, CUDA version 12.2
 ```bash
 conda create -n heartllm python=3.10
 conda activate heartllm
