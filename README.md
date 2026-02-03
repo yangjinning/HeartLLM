@@ -9,15 +9,15 @@ pip install -r requirements.txt
 
 ## 2. Download checkpoints, datasets, LLM:
 
-Please download files from Google Drive:
-🔗 Google Drive
+Please download files from 🔗 Google Drive:
+
 https://drive.google.com/drive/folders/1y6oedzwgoyPkI1DeM5FzDTDGnxL4aBFu?usp=drive_link
 
 You also need to manually download the following ECG datasets from PhysioNet:
-MIMIC-IV-ECG
-https://physionet.org/content/mimic-iv-ecg/1.0/
-PTB-XL
-https://physionet.org/content/ptb-xl/1.0.1/
+
+MIMIC-IV-ECG: https://physionet.org/content/mimic-iv-ecg/1.0/
+
+PTB-XL: https://physionet.org/content/ptb-xl/1.0.1/
 
 ## 3. Project Structure
 After downloading the files from Google Drive, replace the existing files in the repository or create new directories as needed to match the following project structure.
@@ -107,20 +107,28 @@ Stage 1: ECG Tokenizer Training
 
 Train the discretized ECG tokenizer:
 
+```bash
 bash ecg_tokenizer/run_tokenizer.sh
+```
 
 Stage 2: Pretraining
 
 Pretrain the HeartLLM model with aligned ECG tokens and text:
 
+```bash
 bash pretrain.sh
+```
 
 Stage 3: Downstream Instruction Fine-Tuning
 
 Perform instruction fine-tuning for downstream tasks (ECG-QA and report generation):
 
+```bash
 bash finetune.sh
+```
 
 ## 5. Evaluation
-The Google Drive folder provides pretrained model checkpoints.
-By running bash eval.sh, you can directly load the pretrained models and perform evaluation without additional training.
+The Google Drive folder provides pretrained model checkpoints. By running following command, you can directly load the pretrained models and perform evaluation without additional training.
+```bash
+bash eval.sh
+```
